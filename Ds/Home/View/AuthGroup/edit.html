@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>管理中心2.0</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <!-- Bootstrap Core CSS -->
+<link href="__PUBLIC__/main/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<!-- Custom CSS -->
+<link href="__PUBLIC__/main/css/style.css" rel='stylesheet' type='text/css' />
+<!-- Graph CSS -->
+<link href="__PUBLIC__/main/css/lines.css" rel='stylesheet' type='text/css' />
+<link href="__PUBLIC__/main/css/font-awesome.css" rel="stylesheet"> 
+<!-- jQuery -->
+<script src="__PUBLIC__/main/js/jquery.min.js"></script>
+<!-- Metis Menu Plugin JavaScript -->
+<script src="__PUBLIC__/main/js/metisMenu.min.js"></script>
+<script src="__PUBLIC__/main/js/custom.js"></script>
+<!-- Graph JavaScript -->
+<script src="__PUBLIC__/main/js/d3.v3.js"></script>
+<script src="__PUBLIC__/main/js/rickshaw.js"></script>
+<!-- 全（/不）选插件 -->
+<script type="text/javascript" src="__PUBLIC__/main/js/command.js"></script>
+<script type="text/javascript" src="__PUBLIC__/main/js/quanxuan.js"></script>
+<script type="text/javascript" src="__PUBLIC__/main/js/functions.js"></script>
+
+</head>
+<body>
+<div id="wrapper">
+        <div id="page-wrapper">
+        <div class="graphs">
+         <div class="xs">
+           <h3>修改权限组</h3>
+             <div class="tab-content">
+                        <div class="tab-pane active" id="horizontal-form">
+                            <form class="form-horizontal" action="__CONTROLLER__/update/id/<{$arr.id}>" method="post">
+                                <div class="form-group">
+                                    <label for="focusedinput" class="col-sm-2 control-label">权限组名称</label>
+                                    <div class="col-sm-8">
+                                        <input type="text" name="title" class="form-control1" id="focusedinput" placeholder="" value="<{$arr.title}>">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="radio" class="col-sm-2 control-label">
+									<input type="checkbox"> 
+									权限列表</label>
+                                    <div class="col-sm-8">
+                                        <div class="radio-inline">
+                                        <label>
+                                        <foreach name="rarr" item="vo" >
+                                        <input type="checkbox" name="rules[]" value="<{$vo.id}>" <if condition="in_array($vo['id'],explode(',',$arr['rules']))" > checked="checked" </if>><{$vo.title}>&nbsp;&nbsp;&nbsp;
+                                        </foreach>
+                                        </label>
+                                        </div>
+                                    </div>
+                                </div>
+      <div class="panel-footer">
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <input class="btn-success btn" type="submit" value="提交">
+                <input class="btn-default btn" type="button" onclick="back()" value="返回">
+                <input class="btn-inverse btn" type="reset" value="重置">
+                <script>
+                    function back(){
+                        location.href="<{:U('Home/AuthGroup/index')}>";
+                    }
+                </script>
+            </div>
+        </div>
+     </div>
+    </form>
+  </div>
+  </div>
+  </div>
+      </div>
+        </div>
+    <!-- /#wrapper -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="__PUBLIC__/main/js/bootstrap.min.js"></script>
+    <script>
+        $("#rxdate").datepicker();
+        $("#moneydate").datepicker();
+    </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[ 2017-05-10T08:40:55+08:00 ] 218.10.128.38 /index.php/Qt/Login/login.html
+ERR: 非法操作:login
+
+[ 2017-05-10T08:41:05+08:00 ] 101.226.66.192 /index.php/Qt/Login/login.html
+ERR: 非法操作:login
+
+[ 2017-05-10T08:41:17+08:00 ] 119.5.1.100 /index.php/Qt/Login/login.html
+ERR: 非法操作:login
+
+[ 2017-05-10T08:50:32+08:00 ] 218.10.128.38 /index.php/Qt/Login/css/mr.css
+ERR: 非法操作:css
+
+[ 2017-05-10T08:50:32+08:00 ] 218.10.128.38 /index.php/Qt/Login/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2017-05-10T10:25:20+08:00 ] 113.4.219.138 /index.php/Qt/Login/wxlogin.html?code=081rRige1FdQLt001Cee13Qsge1rRigH&state=STATE
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'mobile' cannot be null
+
+[ 2017-05-10T11:17:58+08:00 ] 218.10.128.38 /index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-10T11:18:00+08:00 ] 218.10.128.38 /index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-10T11:18:10+08:00 ] 180.153.214.178 /index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-10T13:05:00+08:00 ] 218.10.128.38 /index.php/Qt/Login/regSms.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0297s ]
+SQL: SELECT `vid` FROM `db_vip` WHERE `mobile` = '18612336366' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0223s ]
+
+[ 2017-05-10T14:19:53+08:00 ] 114.242.250.21 /index.php/Qt/Mr/yl2.html
+ERR: 非法操作:yl2
+

@@ -1,0 +1,39 @@
+[ 2017-05-13T14:41:16+08:00 ] 218.10.128.251 /index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-13T14:41:26+08:00 ] 180.153.214.200 /index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-13T14:41:52+08:00 ] 218.10.128.251 /index.php/Qt/Mr/yl2.html
+ERR: 非法操作:yl2
+
+[ 2017-05-13T14:41:58+08:00 ] 101.226.33.201 /index.php/Qt/Mr/yl2.html
+ERR: 非法操作:yl2
+
+[ 2017-05-13T15:05:28+08:00 ] 218.10.128.251 /index.php/Qt/Login/wxlogin.html?code=04118QSC0j4bQf2CHORC0lbRSC018QSe&state=STATE
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'mobile' cannot be null
+
+[ 2017-05-13T15:06:34+08:00 ] 218.10.128.251 /index.php/Qt/Login/wxlogin.html?code=011XhPX92ZIOZO0Q2gW92QK3Y92XhPXB&state=STATE
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'mobile' cannot be null
+
+[ 2017-05-13T15:07:34+08:00 ] 218.10.128.251 /index.php/Qt/Login/wxlogin.html?code=071x8Arc1d4OQr0pEXsc1xsErc1x8Ar3&state=STATE
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'mobile' cannot be null
+
+[ 2017-05-13T15:09:47+08:00 ] 218.10.128.251 /index.php/Qt/Login/login.html
+ERR: 非法操作:login
+
+[ 2017-05-13T15:10:26+08:00 ] 218.10.128.251 /index.php/Qt/Login/wxlogin.html?code=03121OVk01FYGn1FiQSk0t0wVk021OVN&state=STATE
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'mobile' cannot be null
+
+[ 2017-05-13T15:11:12+08:00 ] 218.10.128.251 /index.php/Qt/Login/wxlogin.html?code=021X15641bQoyO1P7U641TKU541X156d&state=STATE
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'mobile' cannot be null
+
+[ 2017-05-13T15:12:05+08:00 ] 218.10.128.251 /index.php/Qt/Login/wxlogin.html?code=021kfrmO0fbEb92APxkO0pOrmO0kfrmi&state=STATE
+ERR: 模板不存在:./Ds/Qt/View/Public/dispatch_jump.html
+
+[ 2017-05-13T15:42:02+08:00 ] 218.10.128.251 /index.php/Qt/Login/login.html
+ERR: 非法操作:login
+
+[ 2017-05-13T16:08:13+08:00 ] 218.10.128.251 /index.php/Qt/Goods
+ERR: 非法操作:index
+

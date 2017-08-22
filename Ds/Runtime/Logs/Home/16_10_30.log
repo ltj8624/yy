@@ -1,0 +1,6 @@
+[ 2016-10-30T21:32:50+08:00 ] ::1 /Dsupport/index.php/Home/Department/add
+ERR: 模板不存在:./Ds/Home/View/Department/add.html
+
+[ 2016-10-30T21:50:58+08:00 ] ::1 /Dsupport/index.php/Home/Department/edit
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+

@@ -1,0 +1,9 @@
+[ 2017-03-23T10:32:31+08:00 ] ::1 /OA43/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oa_php.oa_department' doesn't exist
+
+[ 2017-03-23T11:16:38+08:00 ] ::1 /OA43/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oa_php.oa_department' doesn't exist
+
+[ 2017-03-23T11:16:44+08:00 ] ::1 /OA43/index.php/Home/Department/index.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oa_php.oa_department' doesn't exist
+

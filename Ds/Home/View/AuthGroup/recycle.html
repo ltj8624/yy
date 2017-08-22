@@ -1,0 +1,60 @@
+<include file='Public:header' />
+        <div id="page-wrapper" style="background-color: rgb(248, 248, 248) !important">
+        <style>
+            .tr_color{background-color: #9F88FF}
+        </style>
+        <div class="div_search">
+            <span>
+                <form action="#" method="get">
+                <table class="table">
+                    <tr>
+                        <td>
+                            组名:
+                            <input type="text">
+                            <input value="查询" type="submit" />
+                        </td>
+                    </tr>
+                </table>
+                </form>
+            </span>
+        </div>
+        <div style="font-size: 13px; margin: 10px 5px;">
+        <style>
+        	table{border: 0 solid black;}
+            td{color:black !important;font-size: 16px !important;}
+            .list td{color:black !important;font-size: 14px !important;text-align: center;}
+        </style>
+        <div class="table-responsive">
+            <table class="table list" id="act" border="1" width="100%">
+                <tbody><tr style="font-weight: bold;border-top: 1px solid black !important">
+                        <td>序号<input onclick="selectAll()" type="checkbox"    name="controlAll" style="controlAll" id="controlAll"/> 
+                        </td>
+                        <td>权限组名称</td>
+                        <td>权限</td>
+                        <td align="center" colspan="2">操作</td>
+                    </tr>
+                    <foreach name="arr" item="vo" >
+                    <tr id="product1">
+                        <td><{$vo.id}> 
+                        <input name="id[]" class="classel" type="checkbox" value="<{$vo.id}> " onclick="checkItem(this, 'chkAll')" />
+                        </td>
+                        <td><{$vo.title}> </td>
+                        <td><{$vo.rules}> </td>
+                        <td><a href="__CONTROLLER__/huifu/id/<{$vo.id}>">恢复</a></td>
+                        
+                        <td><a href="__CONTROLLER__/delit/id/<{$vo.id}>" >删除</a></td>
+                    </tr>
+                    </foreach>
+                </tbody>                
+            </table>
+            <div><span style="text-align:center;"><{$page}></span></div>
+            &nbsp;&nbsp;&nbsp;&nbsp;<input name="chkAll" type="checkbox" id="chkAll" onclick="selectAll(this,'classel')" value="checkbox" />全删
+        </div>
+    </div>
+    
+    </div>
+    <!-- /#wrapper -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="__PUBLIC__/js/bootstrap.min.js"></script>
+</body>
+</html>

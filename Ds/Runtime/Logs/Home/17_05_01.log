@@ -1,0 +1,12 @@
+[ 2017-05-01T15:47:59+08:00 ] ::1 /yy/index.php/Home/Login/dl.html
+ERR: 非法操作:dl
+
+[ 2017-05-01T15:48:28+08:00 ] ::1 /yy/index.php/Home/Login/dl.html
+ERR: 非法操作:dl
+
+[ 2017-05-01T15:49:24+08:00 ] ::1 /yy/index.php/Home/Login/dl.html
+ERR: 非法操作:dl
+
+[ 2017-05-01T15:52:10+08:00 ] ::1 /yy/index.php/Home/WorkExperience/index.html
+ERR: 模板不存在:./Ds/Home/View/WorkExperience/index.html
+

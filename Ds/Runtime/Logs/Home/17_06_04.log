@@ -1,0 +1,20 @@
+[ 2017-06-04T03:49:48+08:00 ] 140.205.225.191 /extensions/kindeditor/themes/default/default.png)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unmatched parentheses at offset 5 D:\BaiduNetdiskDownload\yy\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载控制器:Kindeditor
+
+[ 2017-06-04T10:10:22+08:00 ] 140.205.225.197 /extensions/kindeditor/themes/default/default.png)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unmatched parentheses at offset 5 D:\BaiduNetdiskDownload\yy\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载控制器:Kindeditor
+

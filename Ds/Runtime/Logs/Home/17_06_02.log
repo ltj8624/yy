@@ -1,0 +1,944 @@
+[ 2017-06-02T06:02:34+08:00 ] 140.205.201.30 /extensions/kindeditor/themes/default/default.png)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unmatched parentheses at offset 5 C:\WWW\yy\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+ERR: 无法加载控制器:Kindeditor
+
+[ 2017-06-02T13:30:57+08:00 ] 113.4.139.151 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+NOTIC: [8] Undefined index: UNAME C:\WWW\yy\Ds\Home\Controller\IndexController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019463s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-06-02T13:30:58+08:00 ] 113.4.139.151 /admin.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2017-06-02T13:30:58+08:00 ] 113.4.139.151 /admin.php/Home/Login/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
+[ 2017-06-02T13:31:10+08:00 ] 113.4.139.151 /admin.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+SQL: SHOW COLUMNS FROM `db_user_info` [ RunTime:0.0370s ]
+SQL: SELECT * FROM `db_user_info` WHERE `accounts` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-02T13:31:10+08:00 ] 113.4.139.151 /admin.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2017-06-02T13:31:11+08:00 ] 113.4.139.151 /admin.php/Home/Public/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069558s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2017-06-02T13:31:11+08:00 ] 113.4.139.151 /admin.php/Home/Public/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2017-06-02T13:31:11+08:00 ] 113.4.139.151 /admin.php/Home/Public/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-06-02T13:31:18+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0234s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0173s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-06-02T13:31:22+08:00 ] 113.4.139.151 /admin.php/Home/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001719s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0210s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001764s ]
+
+[ 2017-06-02T13:31:35+08:00 ] 113.4.139.151 /admin.php/Home/Goods/nickname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0231s ]
+ERR: 非法操作:nickname
+
+[ 2017-06-02T13:31:49+08:00 ] 113.4.139.151 /admin.php/Home/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0212s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0165s ]
+NOTIC: [8] Undefined variable: logo C:\WWW\yy\Ds\Home\Model\GoodsModel.class.php 第 70 行.
+SQL: INSERT INTO `db_goods` (`gname`,`gmuch`,`time`,`photo`) VALUES ('一分钱','0.1','1496381509','') [ RunTime:0.0071s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001058s ]
+
+[ 2017-06-02T13:31:51+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0310s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0407s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001121s ]
+
+[ 2017-06-02T13:32:01+08:00 ] 113.4.139.151 /admin.php/Home/Goods/details/gid/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0243s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0189s ]
+SQL: SELECT * FROM `db_goods` WHERE ( gid=1 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\e219a0399b298e9815605a2d5d744eab.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-06-02T13:32:07+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0241s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0167s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2017-06-02T13:33:22+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save/gid/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0211s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `db_goods` WHERE `gid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d2dde2932f02b59342e310740ca559df.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-06-02T13:33:33+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0215s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0165s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2017-06-02T13:33:34+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0219s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0198s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+NOTIC: [8] Undefined index: xl C:\WWW\yy\Ds\Runtime\Cache\Home\d71856d2cb9e2bb3e6eaecad041e70c0.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011100s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-06-02T13:36:56+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save/gid/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0237s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `db_goods` WHERE `gid` = 3 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009775s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001060s ]
+
+[ 2017-06-02T13:37:02+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001554s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0234s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0506s ]
+NOTIC: [8] Undefined variable: logo C:\WWW\yy\Ds\Home\Model\GoodsModel.class.php 第 103 行.
+SQL: UPDATE `db_goods` SET `xl`='100',`photo`='',`gname`='一分钱',`gmuch`='0.1',`time`='1496381822' WHERE `gid` = 3 [ RunTime:0.0076s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001049s ]
+
+[ 2017-06-02T13:37:04+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0254s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0173s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2017-06-02T13:41:07+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0238s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0315s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001675s ]
+
+[ 2017-06-02T13:41:08+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001644s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0358s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001646s ]
+
+[ 2017-06-02T13:41:10+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save/gid/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.1428s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0502s ]
+SQL: SELECT * FROM `db_goods` WHERE `gid` = 3 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001632s ]
+
+[ 2017-06-02T13:41:13+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001674s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0238s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0309s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001650s ]
+
+[ 2017-06-02T13:41:16+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save/gid/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0175s ]
+SQL: SELECT * FROM `db_goods` WHERE `gid` = 2 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012349s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001663s ]
+
+[ 2017-06-02T13:42:20+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0244s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0479s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-06-02T13:42:22+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0222s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0172s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012123s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2017-06-02T13:42:23+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0246s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0176s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011164s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2017-06-02T13:42:24+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0272s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0181s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000840s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000935s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001043s ]
+
+[ 2017-06-02T13:42:25+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0229s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0179s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-06-02T13:42:29+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save/gid/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0251s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `db_goods` WHERE `gid` = 2 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-06-02T13:42:40+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0225s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0191s ]
+NOTIC: [8] Undefined variable: logo C:\WWW\yy\Ds\Home\Model\GoodsModel.class.php 第 103 行.
+SQL: UPDATE `db_goods` SET `gmuch`='30',`xl`='',`kmuch`='10',`photo`='',`gname`='羊排',`time`='1496382160' WHERE `gid` = 2 [ RunTime:0.0096s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-06-02T13:42:42+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0377s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0166s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-06-02T13:42:55+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save/gid/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0212s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `db_goods` WHERE `gid` = 2 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008668s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2017-06-02T13:43:09+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0226s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0175s ]
+NOTIC: [8] Undefined variable: logo C:\WWW\yy\Ds\Home\Model\GoodsModel.class.php 第 103 行.
+SQL: UPDATE `db_goods` SET `gmuch`='35',`xl`='',`kmuch`='10',`photo`='',`gname`='羊排',`time`='1496382189' WHERE `gid` = 2 [ RunTime:0.0132s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001077s ]
+
+[ 2017-06-02T13:43:11+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0216s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0162s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2017-06-02T13:49:08+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0254s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0189s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2017-06-02T13:49:12+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save/gid/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0249s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0208s ]
+SQL: SELECT * FROM `db_goods` WHERE `gid` = 2 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-06-02T13:49:18+08:00 ] 113.4.139.151 /admin.php/Home/Goods/save
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0217s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0214s ]
+NOTIC: [8] Undefined variable: logo C:\WWW\yy\Ds\Home\Model\GoodsModel.class.php 第 103 行.
+SQL: UPDATE `db_goods` SET `gmuch`='40',`much`='35',`xl`='',`kmuch`='10',`photo`='',`gname`='羊排',`time`='1496382558' WHERE `gid` = 2 [ RunTime:0.0066s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2017-06-02T13:49:20+08:00 ] 113.4.139.151 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0215s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0166s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000886s ]
+

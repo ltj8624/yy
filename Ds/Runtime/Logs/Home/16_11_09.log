@@ -1,0 +1,373 @@
+[ 2016-11-09T13:20:52+08:00 ] ::1 /ds1107/index.php/Home/StudentInfo/entrance
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `oa_class_info` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `oa_student_info` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `oa_user_info` WHERE `del` = 1  [ RunTime:0.0010s ]
+SQL: SELECT `id`,`class_code`,`class_type` FROM `oa_class_info` WHERE `del` = 1  [ RunTime:0.0010s ]
+SQL: UPDATE `oa_student_info` SET `status`='2' WHERE `id` = 16 [ RunTime:0.0740s ]
+
+[ 2016-11-09T14:12:43+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `oa_work_ability_test` (`stu_id`,`test_status`,`entrance_work_aptitude`,`professional_aptitude`,`job_quality`,`diploma`,`create_time`) VALUES ('0','1','1','2','3','2','1478671963') [ RunTime:0.0560s ]
+SQL: UPDATE `oa_student_info` SET `status_c`='2' WHERE ( id=13 ) [ RunTime:0.0020s ]
+
+[ 2016-11-09T14:15:16+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='0',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='2',`job_quality`='2',`diploma`='1',`create_time`='1478672116' WHERE `stu_id` = 0 [ RunTime:0.0430s ]
+
+[ 2016-11-09T14:15:40+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='0',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='3',`job_quality`='3',`diploma`='1',`create_time`='1478672140' WHERE `stu_id` = 0 [ RunTime:0.1180s ]
+
+[ 2016-11-09T14:18:36+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='0',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='2',`job_quality`='3',`diploma`='1',`create_time`='1478672316' WHERE `stu_id` = 0 [ RunTime:0.0020s ]
+
+[ 2016-11-09T14:19:01+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='0',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='3',`job_quality`='3',`diploma`='2',`create_time`='1478672341' WHERE `stu_id` = 0 [ RunTime:0.0030s ]
+
+[ 2016-11-09T14:19:58+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='0',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='2',`job_quality`='2',`diploma`='1',`create_time`='1478672398' WHERE `stu_id` = 0 [ RunTime:0.0030s ]
+
+[ 2016-11-09T14:32:28+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+
+[ 2016-11-09T14:39:41+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+
+[ 2016-11-09T14:39:45+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0140s ]
+
+[ 2016-11-09T14:42:04+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `oa_work_ability_test` (`stu_id`,`test_status`,`entrance_work_aptitude`,`professional_aptitude`,`job_quality`,`diploma`,`create_time`) VALUES ('0','1','1','2','2','2','1478673724') [ RunTime:0.1610s ]
+SQL: UPDATE `oa_student_info` SET `status_c`='2' WHERE ( id=12 ) [ RunTime:0.0020s ]
+
+[ 2016-11-09T14:42:52+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='0',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='1',`job_quality`='1',`diploma`='1',`create_time`='1478673772' WHERE `stu_id` = 0 [ RunTime:0.0540s ]
+
+[ 2016-11-09T14:43:26+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='0',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='2',`job_quality`='3',`diploma`='1',`create_time`='1478673806' WHERE `stu_id` = 0 [ RunTime:0.0540s ]
+
+[ 2016-11-09T14:46:05+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `oa_work_ability_test` (`stu_id`,`test_status`,`entrance_work_aptitude`,`professional_aptitude`,`job_quality`,`diploma`,`create_time`) VALUES ('12','1','1','2','2','1','1478673965') [ RunTime:0.1130s ]
+SQL: UPDATE `oa_student_info` SET `status_c`='2' WHERE ( id=12 ) [ RunTime:0.0020s ]
+
+[ 2016-11-09T14:47:10+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='12',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='1',`job_quality`='1',`diploma`='1',`create_time`='1478674030' WHERE `stu_id` = 12 [ RunTime:0.0550s ]
+
+[ 2016-11-09T14:47:28+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='12',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='2',`job_quality`='2',`diploma`='1',`create_time`='1478674048' WHERE `stu_id` = 12 [ RunTime:0.1940s ]
+
+[ 2016-11-09T14:48:26+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0140s ]
+
+[ 2016-11-09T14:48:35+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0110s ]
+
+[ 2016-11-09T14:49:26+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+
+[ 2016-11-09T14:49:48+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+
+[ 2016-11-09T14:50:22+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-09T14:51:03+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-09T14:52:11+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `oa_work_ability_test` (`stu_id`,`test_status`,`entrance_work_aptitude`,`professional_aptitude`,`job_quality`,`diploma`,`create_time`) VALUES ('12','1','1','2','3','2','1478674331') [ RunTime:0.1160s ]
+SQL: UPDATE `oa_student_info` SET `status_c`='2' WHERE ( id=12 ) [ RunTime:0.0020s ]
+
+[ 2016-11-09T14:52:46+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='12',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='2',`job_quality`='2',`diploma`='2',`create_time`='1478674366' WHERE `stu_id` = 12 [ RunTime:0.0460s ]
+
+[ 2016-11-09T14:53:48+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `oa_work_ability_test` (`stu_id`,`test_status`,`entrance_work_aptitude`,`professional_aptitude`,`job_quality`,`diploma`,`create_time`) VALUES ('12','1','1','2','2','2','1478674428') [ RunTime:0.1140s ]
+SQL: UPDATE `oa_student_info` SET `status_c`='2' WHERE ( id=12 ) [ RunTime:0.0040s ]
+
+[ 2016-11-09T14:55:16+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `oa_work_ability_test` (`stu_id`,`test_status`,`entrance_work_aptitude`,`professional_aptitude`,`job_quality`,`diploma`,`create_time`) VALUES ('12','1','1','2','3','2','1478674516') [ RunTime:0.0160s ]
+SQL: UPDATE `oa_student_info` SET `status_c`='2' WHERE ( id=12 ) [ RunTime:0.0020s ]
+
+[ 2016-11-09T14:55:40+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `oa_work_ability_test` SET `stu_id`='12',`test_status`='1',`entrance_work_aptitude`='1',`professional_aptitude`='3',`job_quality`='3',`diploma`='2',`create_time`='1478674540' WHERE `stu_id` = 12 [ RunTime:0.0030s ]
+
+[ 2016-11-09T14:58:52+08:00 ] ::1 /ds1107/index.php/Home/WorkAbilityTest/add_edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 12 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `oa_work_ability_test` (`stu_id`,`test_status`,`entrance_work_aptitude`,`professional_aptitude`,`job_quality`,`diploma`,`create_time`) VALUES ('12','1','1','2','2','1','1478674732') [ RunTime:0.0660s ]
+SQL: UPDATE `oa_student_info` SET `status_c`='2' WHERE `id` = 12 [ RunTime:0.0020s ]
+
+[ 2016-11-09T17:35:37+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0110s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.1400s ]
+
+[ 2016-11-09T17:36:21+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0110s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.1080s ]
+
+[ 2016-11-09T17:36:22+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.0020s ]
+
+[ 2016-11-09T17:36:23+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.0040s ]
+
+[ 2016-11-09T19:07:09+08:00 ] ::1 /ds1107/index.php/Home/TeacherEvaluate/get_class_info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_teacher_evaluate` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `oa_class_info` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: SELECT `id`,usert_id tid,userc_id bid,`status`,class_type type,`class_code` FROM `oa_class_info` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0110s ]
+SQL: SELECT `name` FROM `oa_user_info` WHERE ( id = 2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `oa_user_info` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-09T19:47:08+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.0730s ]
+
+[ 2016-11-09T19:47:18+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0150s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.1660s ]
+
+[ 2016-11-09T19:48:26+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0120s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.1660s ]
+
+[ 2016-11-09T19:48:57+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0120s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.0570s ]
+
+[ 2016-11-09T19:49:00+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0120s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.0290s ]
+
+[ 2016-11-09T19:49:00+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0150s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.0030s ]
+
+[ 2016-11-09T19:49:01+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.0050s ]
+
+[ 2016-11-09T19:49:02+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0140s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.0260s ]
+
+[ 2016-11-09T19:49:04+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0120s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.0900s ]
+
+[ 2016-11-09T19:49:06+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0120s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.1430s ]
+
+[ 2016-11-09T19:49:07+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0110s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.2590s ]
+
+[ 2016-11-09T19:49:08+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0150s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.0390s ]
+

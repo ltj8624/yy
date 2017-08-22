@@ -1,0 +1,84 @@
+[ 2017-05-04T09:01:00+08:00 ] ::1 /yy/index.php/Qt/sc.html
+ERR: 无法加载控制器:Sc
+
+[ 2017-05-04T09:01:26+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:05:46+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:15:23+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:15:44+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:18:57+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:20:14+08:00 ] ::1 /yy/index.php/Qt/sc.html
+ERR: 无法加载控制器:Sc
+
+[ 2017-05-04T09:20:21+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:20:25+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:20:26+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:20:27+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:25:49+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T09:26:37+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T14:03:29+08:00 ] ::1 /yy/index.php/Qt/Mr/yl2.html
+ERR: 非法操作:yl2
+
+[ 2017-05-04T14:03:52+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T16:17:45+08:00 ] ::1 /yy/index.php/Qt/sc.html
+ERR: 无法加载控制器:Sc
+
+[ 2017-05-04T16:26:22+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T17:30:32+08:00 ] ::1 /yy/index.php/Qt/goumai.html
+ERR: 无法加载控制器:Goumai
+
+[ 2017-05-04T17:30:41+08:00 ] ::1 /yy/index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-04T17:30:48+08:00 ] ::1 /yy/index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-04T17:31:07+08:00 ] ::1 /yy/index.php/Qt/sc.html
+ERR: 无法加载控制器:Sc
+
+[ 2017-05-04T17:31:59+08:00 ] ::1 /yy/index.php/Qt/Goods/css/sc.css
+ERR: 非法操作:css
+
+[ 2017-05-04T17:31:59+08:00 ] ::1 /yy/index.php/Qt/Goods/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2017-05-04T17:32:35+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+
+[ 2017-05-04T17:37:49+08:00 ] ::1 /yy/index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-04T17:41:27+08:00 ] ::1 /yy/index.php/Qt/Product/mr.html
+ERR: 模板不存在:./Ds/Qt/View/Product/mr.html
+
+[ 2017-05-04T17:49:49+08:00 ] ::1 /yy/index.php/Qt/Mr/yl2.html
+ERR: 非法操作:yl2
+
+[ 2017-05-04T18:20:39+08:00 ] ::1 /yy/index.php/Qt/mr.html
+ERR: 非法操作:index
+

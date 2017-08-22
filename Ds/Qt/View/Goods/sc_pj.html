@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+<title>云联金阳</title>
+<link rel="stylesheet" href="css/swiper.min.css">
+<link rel="stylesheet" href="css/sc.css" type="text/css" />
+<script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="js/swiper.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".sctop ul li").click(function(){
+		$(this).addClass("hover").siblings().removeClass("hover")
+		var index = $(this).index();
+		$(".spp .sp1:eq("+ index +")").css("height","auto").siblings().css("height","0px");
+	})
+	$(".sctop ul li:eq(1)").click(function(){
+		$(".sctop img").css("height","5.5vw")
+	})
+	$(".pj ul div").click(function(){
+		$(".sctop ul li:eq(2)").addClass("hover").siblings().removeClass("hover")
+		$(".spp .sp1:eq(2)").css("height","auto").siblings().css("height","0px");
+	})
+	$(".sp22 div").click(function(){
+		$(".sctop ul li:eq(1)").addClass("hover").siblings().removeClass("hover")
+		$(".spp .sp1:eq(1)").css("height","auto").siblings().css("height","0px");
+	})
+	
+	
+	/*$(window).scroll(function(){
+		var zh= $(document).height()*0.95  //是获取整个页面的高度
+		var sh= $(window).height()  //是获取当前也就是浏览器所能看到的页面的那部分的高度。
+		var gh= $(document).scrollTop()//滚动条距离顶部的高度
+		
+    	if(sh+gh>=zh){
+        	if($('.sctop ul li:eq(0)').is('.hover')){
+			setTimeout(function () { 
+				$(".sctop ul li:eq(1)").addClass("hover").siblings().removeClass("hover");
+				$(".spp .sp1:eq(1)").css("height","auto").siblings().css("height","0px"); 
+				$(window).scrollTop(0);
+			},1000);
+		
+    	}
+		}else{false}
+	})*/
+	
+})
+</script>
+</head>
+<body>
+<div class="top sctop" style=" margin-bottom:0;" id="top">
+<div class="dingdan"><a href="dd.html"><img src="img/dd.png">订单</a></div>
+<a href="javascript:history.go(-1)"><img src="img/jiantou.png" /></a>
+<ul>
+
+
+
+<li>商品</li><li>详情</li><li class="hover">评价</li>
+
+
+
+</ul>
+</div>
+<div class="spp">
+  <div class="sp1" style="height:0px;">
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide"><img src="img/sp.jpg" width="100%"/></div>
+        <div class="swiper-slide"><img src="img/sp2.jpg" width="100%"/></div>
+        <div class="swiper-slide"><img src="img/sp3.jpg" width="100%"/></div>
+      </div>
+  <script type="text/javascript">
+  var mySwiper = new Swiper('.swiper-container',{
+    loop: true,
+	autoplay: 3000,
+  });
+</script>
+    </div>
+    <div class="cpwz">
+      <input type="button" value="购买商品"  onclick="location='dd_xx.html'"/><h1>新鲜精装羊肉</h1>
+      <h2>￥50-100</h2>
+      <p>原价：<span>￥200-300</span></p>
+      <ul>
+        <li>黑龙江</li>
+        <li>快递：0.00 </li>
+        <li>月销量：1235</li>
+      </ul>
+    </div>
+    <div class="sp22">
+   <div><a href="#top">商品详情</a></div>
+  </div>
+    <div class="pj">
+      <h1>商品评价</h1>
+      <ul>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <div><a href="#top">查看全部评价</a></div>
+      </ul>
+    </div>
+  </div>
+  <div class="sp1" style="height:0px;">
+    <img src="img/1.png"/>
+    <img src="img/22.jpg"/>
+    <img src="img/33.jpg"/>
+    <img src="img/44.jpg"/>
+    <img src="img/5.jpg"/>
+    <img src="img/6.jpg"/>
+    <img src="img/7.jpg"/>
+    <img src="img/8.png"/>
+    <img src="img/9.png"/>
+    <img src="img/10.png"/>
+    <img src="img/11.png"/>
+    <img src="img/12.jpg"/>
+  </div>
+  <div class="sp1" style="height:auto;">
+    <div class="pj">
+      <h1>商品评价</h1>
+      <ul>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+        <li>
+          <h2><img src="img/sp.jpg" width="100%"/>王**</h2>
+          <p>肉质非常好，快递也很给力，做出来之后的味道也很不错。</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="dcf"></div>
+</body>
+</html>

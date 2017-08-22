@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+
+	<script charset="utf-8" src="kindeditor-min.js"></script>
+	<script charset="utf-8" src="lang/zh_CN.js"></script>
+</head>
+<body>
+	<textarea name="nmessage" style="width:700px;height:300px;visibility:hidden;">KindEditor</textarea>
+	<script>
+	var editor;
+	KindEditor.ready(function(K) {
+		editor = K.create('textarea[name="nmessage"]', {
+			allowFileManager : true
+		});
+	});
+	</script>
+</body>
+</html>

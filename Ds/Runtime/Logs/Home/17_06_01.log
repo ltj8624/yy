@@ -1,0 +1,264 @@
+[ 2017-06-01T11:02:14+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:02:23+08:00 ] 101.226.65.107 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:02:25+08:00 ] 101.226.125.111 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:03:07+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:03:15+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:03:50+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+INFO: [ view_parse ] --START--
+
+[ 2017-06-01T11:04:27+08:00 ] 113.108.82.36 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 19 行.
+NOTIC: [8] Undefined index: code C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 99 行.
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 61 行.
+
+[ 2017-06-01T11:04:35+08:00 ] 219.157.171.70 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 19 行.
+NOTIC: [8] Undefined index: code C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 99 行.
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 61 行.
+
+[ 2017-06-01T11:04:36+08:00 ] 101.226.89.116 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 19 行.
+NOTIC: [8] Undefined index: code C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 99 行.
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 61 行.
+
+[ 2017-06-01T11:05:38+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+
+[ 2017-06-01T11:06:23+08:00 ] 123.151.64.143 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 19 行.
+NOTIC: [8] Undefined index: code C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 99 行.
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 61 行.
+
+[ 2017-06-01T11:06:24+08:00 ] 123.151.64.143 /index.php/Home/Shopping/wxpay?code=081Owzv31o1mHL10IDv31jPNv31OwzvA&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+
+[ 2017-06-01T11:06:31+08:00 ] 123.151.64.143 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ view_parse ] --START--
+
+[ 2017-06-01T11:07:42+08:00 ] 180.153.163.190 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 19 行.
+NOTIC: [8] Undefined index: code C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 99 行.
+NOTIC: [8] Undefined index: openid C:\WWW\yy\Ds\Home\Controller\ShoppingController.class.php 第 61 行.
+
+[ 2017-06-01T11:13:17+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:13:41+08:00 ] 219.157.171.70 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:13:46+08:00 ] 219.157.171.70 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:14:18+08:00 ] 101.226.51.227 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:15:33+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001868s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:15:40+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+ERR: 无法加载控制器:Shopping
+
+[ 2017-06-01T11:16:40+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-06-01T11:17:00+08:00 ] 219.157.171.70 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000839s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-06-01T11:17:00+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2017-06-01T11:33:31+08:00 ] 113.4.139.93 /index.php/Home/Shopping/Callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+ERR: 非法操作:Callback
+
+[ 2017-06-01T14:56:39+08:00 ] 113.4.139.93 /index.php/Home/Shopping/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2017-06-01T20:43:03+08:00 ] 140.205.201.42 /extensions/kindeditor/themes/default/default.png)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unmatched parentheses at offset 5 C:\WWW\yy\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+ERR: 无法加载控制器:Kindeditor
+
+[ 2017-06-01T21:02:22+08:00 ] 140.205.225.191 /extensions/kindeditor/themes/default/default.png)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unmatched parentheses at offset 5 C:\WWW\yy\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+ERR: 无法加载控制器:Kindeditor
+

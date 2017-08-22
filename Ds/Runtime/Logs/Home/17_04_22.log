@@ -1,0 +1,189 @@
+[ 2017-04-22T08:39:17+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T08:55:27+08:00 ] ::1 /yy/index.php/Home/Goods/del/id/4
+ERR: 非法操作:del
+
+[ 2017-04-22T09:29:25+08:00 ] ::1 /yy/index.php/Home/AuthGroup/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-04-22T09:29:26+08:00 ] ::1 /yy/index.php/Home/AuthGroup/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-04-22T09:34:23+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T09:44:08+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T10:13:48+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T10:13:50+08:00 ] ::1 /yy/index.php/Home/UserInfo/index.html
+ERR: 无法加载控制器:UserInfo
+
+[ 2017-04-22T10:20:15+08:00 ] ::1 /yy/index.php/Home/UserInfo/index.html
+ERR: 无法加载控制器:UserInfo
+
+[ 2017-04-22T10:20:16+08:00 ] ::1 /yy/index.php/Home/UserInfo/index.html
+ERR: 无法加载控制器:UserInfo
+
+[ 2017-04-22T10:20:19+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T10:44:24+08:00 ] ::1 /yy/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-04-22T11:00:12+08:00 ] ::1 /yy/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-04-22T11:30:19+08:00 ] ::1 /yy/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-04-22T13:22:01+08:00 ] ::1 /yy/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-04-22T13:23:38+08:00 ] ::1 /yy/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-04-22T13:23:41+08:00 ] ::1 /yy/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-04-22T13:23:43+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T14:14:11+08:00 ] ::1 /yy/index.php/Home/WorkExperience/index.html
+ERR: 无法加载控制器:WorkExperience
+
+[ 2017-04-22T14:20:21+08:00 ] ::1 /yy/index.php/Home/WorkExperience/index.html
+ERR: 无法加载控制器:WorkExperience
+
+[ 2017-04-22T15:03:17+08:00 ] ::1 /yy/index.php/Home/Userinfo/delete/gid/
+ERR: 非法操作:delete
+
+[ 2017-04-22T15:16:46+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:16:46+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:16:49+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:17:19+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:17:21+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:17:21+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:17:21+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:17:24+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:17:26+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:17:28+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T15:17:31+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-04-22T15:21:28+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:21:33+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:21:33+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:21:33+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:21:34+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:21:34+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:21:34+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:21:35+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:21:37+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T15:21:54+08:00 ] ::1 /yy/index.php/Home/UserInfo/delete/id/32
+ERR: Think\Model:dlt方法不存在！
+
+[ 2017-04-22T15:24:13+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T15:29:07+08:00 ] ::1 /yy/index.php/Home/Userinfo/index.html
+ERR: 无法加载控制器:Userinfo
+
+[ 2017-04-22T15:36:35+08:00 ] ::1 /yy/index.php/Home/WorkExperience/index.html
+ERR: 无法加载控制器:WorkExperience
+
+[ 2017-04-22T15:40:01+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T15:40:07+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T15:51:38+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T15:53:44+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T15:55:03+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T15:58:59+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T16:00:26+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T16:01:02+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T16:01:05+08:00 ] ::1 /yy/index.php/Home/Public/Home.html
+ERR: 非法操作:Home
+
+[ 2017-04-22T16:01:18+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T16:04:00+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T16:07:26+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T16:18:06+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T16:58:30+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T16:58:50+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+
+[ 2017-04-22T17:00:49+08:00 ] ::1 /yy/index.php/Home/Goods/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001644s ]
+ERR: 非法操作:nickname
+
+[ 2017-04-22T17:06:53+08:00 ] ::1 /yy/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_department' doesn't exist
+

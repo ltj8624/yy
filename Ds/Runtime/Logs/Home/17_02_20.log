@@ -1,0 +1,85 @@
+[ 2017-02-20T09:05:53+08:00 ] ::1 /OA43/index.php/Home/StudentCommunicate/index.html
+ERR: 无法加载控制器:StudentCommunicate
+
+[ 2017-02-20T09:06:26+08:00 ] ::1 /OA43/index.php/Home/Public/css/css.css
+ERR: 非法操作:css
+
+[ 2017-02-20T09:06:26+08:00 ] ::1 /OA43/index.php/Home/Public/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-02-20T12:05:14+08:00 ] ::1 /OA43/index.php/Home/StudentContact/index.html
+ERR: 无法加载控制器:StudentContact
+
+[ 2017-02-20T13:42:47+08:00 ] ::1 /OA43/index.php/Home/StudentCommunicate/index.html
+ERR: 无法加载控制器:StudentCommunicate
+
+[ 2017-02-20T13:43:38+08:00 ] ::1 /OA43/index.php/Home/StudentCommunicate/index.html
+ERR: 无法加载控制器:StudentCommunicate
+
+[ 2017-02-20T13:44:27+08:00 ] ::1 /OA43/index.php/Home/StudentCommunicate/index.html
+ERR: 无法加载控制器:StudentCommunicate
+
+[ 2017-02-20T13:47:41+08:00 ] ::1 /OA43/index.php/Home/StudentCommunicate/index.html
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-02-20T13:57:04+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getSingle方法不存在！
+
+[ 2017-02-20T14:00:12+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getSingle方法不存在！
+
+[ 2017-02-20T14:00:35+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getSingle方法不存在！
+
+[ 2017-02-20T14:00:36+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getSingle方法不存在！
+
+[ 2017-02-20T14:00:37+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getSingle方法不存在！
+
+[ 2017-02-20T14:00:37+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getSingle方法不存在！
+
+[ 2017-02-20T14:00:37+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getSingle方法不存在！
+
+[ 2017-02-20T14:00:37+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getSingle方法不存在！
+
+[ 2017-02-20T14:01:14+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-02-20T14:08:06+08:00 ] ::1 /OA43/index.php/Home/StudentCommunicate/index.html
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-02-20T14:14:17+08:00 ] ::1 /OA43/index.php/Home/StudentCommunicate/index.html
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-02-20T14:23:06+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-02-20T14:25:04+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:get_class方法不存在！
+
+[ 2017-02-20T14:27:06+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/student/cid/1.html
+ERR: Think\Model:getlistyx方法不存在！
+
+[ 2017-02-20T14:37:47+08:00 ] ::1 /OA43/index.php/Home/StudentCommunicate/index/id/69/lname/%E6%A5%9A%E4%BA%91%E9%A3%9E.html
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-02-20T14:38:28+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-02-20T14:44:05+08:00 ] ::1 /OA43/index.php/Home/UserInfo/changes.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0040s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0558s ]
+
+[ 2017-02-20T15:34:35+08:00 ] ::1 /OA43/index.php/Home/StudentTrain/index.html
+ERR: 无法加载控制器:StudentTrain
+
+[ 2017-02-20T17:05:14+08:00 ] ::1 /OA43/index.php/Home/StudentTrain/index.html
+ERR: 无法加载控制器:StudentTrain
+

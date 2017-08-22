@@ -1,0 +1,507 @@
+[ 2019-07-08T10:45:24+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2019-07-08T10:45:28+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2019-07-08T10:45:39+08:00 ] 42.101.209.95 /index.php/Qt/Yl/yl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2019-07-08T10:47:10+08:00 ] 42.101.209.95 /index.php/Qt/Yl/yl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-07-08T10:47:15+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2019-07-08T10:48:57+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2019-07-08T10:49:33+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2019-07-08T10:49:38+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2019-07-08T10:50:25+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2019-07-08T10:50:30+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2019-07-08T10:55:37+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2019-07-08T10:56:38+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2019-07-08T10:56:46+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-07-08T10:56:51+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2019-07-08T10:56:55+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2019-07-08T10:58:21+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2019-07-08T10:58:33+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-07-08T11:00:44+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2019-07-08T11:01:35+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2019-07-08T11:01:55+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2019-07-08T11:02:41+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2019-07-08T11:03:39+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-08T11:06:03+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2019-07-08T11:07:14+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2019-07-08T11:08:29+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2019-07-08T11:08:53+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2019-07-08T11:09:29+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2019-07-08T11:10:20+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-07-08T11:11:04+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-07-08T11:12:19+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2019-07-08T11:16:31+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2019-07-08T11:17:34+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2019-07-08T11:19:23+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2019-07-08T11:22:33+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-08T11:22:42+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2019-07-08T11:22:51+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2019-07-08T11:22:59+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2019-07-08T11:24:32+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2019-07-08T11:24:43+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2019-07-08T11:24:58+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2019-07-08T11:25:16+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2019-07-08T11:25:22+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2019-07-08T11:25:30+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2019-07-08T11:25:36+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2019-07-08T11:25:40+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2019-07-08T11:26:45+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2019-07-08T11:26:53+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2019-07-08T11:27:43+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2019-07-08T11:27:47+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2019-07-08T11:30:45+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2019-07-08T11:30:52+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2019-07-08T11:31:38+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2019-07-08T11:34:01+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2019-07-08T11:34:09+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2019-07-08T11:35:16+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2019-07-08T11:35:20+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2019-07-08T11:36:30+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2019-07-08T11:36:36+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2019-07-08T11:36:45+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2019-07-08T11:36:52+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2019-07-08T11:37:00+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2019-07-08T11:37:05+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2019-07-08T11:39:56+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-07-08T11:40:03+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2019-07-08T11:40:11+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2019-07-08T11:40:18+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2019-07-08T11:40:23+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2019-07-08T11:46:19+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2019-07-08T11:46:25+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2019-07-08T11:46:58+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2019-07-08T11:47:02+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2019-07-08T12:48:59+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2019-07-08T12:49:04+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2019-07-08T12:49:13+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2019-07-08T12:49:26+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2019-07-08T12:51:21+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2019-07-08T12:51:23+08:00 ] 42.101.209.95 /index.php/Qt/Product/goumai.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2019-07-08T12:51:24+08:00 ] 42.101.209.95 /index.php/Qt/Product/css/mr.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 非法操作:css
+
+[ 2019-07-08T12:51:28+08:00 ] 42.101.209.95 /index.php/Qt/Product/goumai_dd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-07-08T12:51:31+08:00 ] 42.101.209.95 /index.php/Qt/Product/ajax
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `db_product` [ RunTime:0.0187s ]
+SQL: SHOW COLUMNS FROM `db_order` [ RunTime:0.0129s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0174s ]
+SQL: SHOW COLUMNS FROM `db_dcht` [ RunTime:0.0108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2019-07-08T12:51:34+08:00 ] 42.101.209.95 /index.php/Qt/Product/dd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2019-07-08T12:51:37+08:00 ] 42.101.209.95 /index.php/Qt/Goods/goumai_ddlb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2019-07-08T12:51:38+08:00 ] 42.101.209.95 /index.php/Qt/Goods/css/mr.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 非法操作:css
+
+[ 2019-07-08T12:51:40+08:00 ] 42.101.209.95 /index.php/Qt/Goods/ggdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2019-07-08T12:51:42+08:00 ] 42.101.209.95 /index.php/Qt/Goods/zhifu/oid/392/money/6000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2019-07-08T12:51:47+08:00 ] 42.101.209.95 /index.php/Qt/Goods/zhifu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2019-07-08T12:51:48+08:00 ] 42.101.209.95 /index.php/Qt/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-07-08T12:51:57+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-07-08T12:52:05+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2019-07-08T12:52:09+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2019-07-08T12:52:11+08:00 ] 1.189.208.152 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2019-07-08T12:52:15+08:00 ] 1.189.208.152 /index.php/Qt/Goods/sc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2019-07-08T12:52:17+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2019-07-08T12:52:19+08:00 ] 1.189.208.152 /index.php/Qt/Goods/sc_xx/gid/14.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2019-07-08T12:52:24+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2019-07-08T12:52:46+08:00 ] 1.189.208.152 /index.php/Qt/Goods/sc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-08T12:52:50+08:00 ] 1.189.208.152 /index.php/Qt/Goods/sc_xx/gid/14.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2019-07-08T12:52:52+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2019-07-08T12:52:58+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+

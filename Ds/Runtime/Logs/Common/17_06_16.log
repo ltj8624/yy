@@ -1,0 +1,12 @@
+[ 2017-06-16T17:05:13+08:00 ] 113.4.139.87 /index.php/Goods/goumai_ddlb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 无法加载模块:Goods
+
+[ 2017-06-16T17:05:23+08:00 ] 61.151.228.22 /index.php/Goods/goumai_ddlb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:Goods
+

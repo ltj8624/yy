@@ -1,0 +1,26 @@
+[ 2017-04-14T08:35:20+08:00 ] ::1 /OA43/index.php/Home/Public/main.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oa_php.oa_department' doesn't exist
+
+[ 2017-04-14T08:36:40+08:00 ] ::1 /OA43/index.php/Home/UserInfo/changes.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0056s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE `id` = 1 [ RunTime:0.1823s ]
+
+[ 2017-04-14T08:36:42+08:00 ] ::1 /OA43/index.php/Home/UserInfo/changes.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0043s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0590s ]
+
+[ 2017-04-14T08:37:22+08:00 ] ::1 /OA43/index.php/Home/AuthRule/index.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oa_php43.oa_auth_rule' doesn't exist
+
+[ 2017-04-14T08:48:25+08:00 ] ::1 /OA43/index.php/Home/AuthRule/index.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oa_php43.oa_auth_rule' doesn't exist
+
+[ 2017-04-14T08:50:05+08:00 ] ::1 /OA43/index.php/Home/AuthRule/index.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oa_php43.oa_auth_rule' doesn't exist
+

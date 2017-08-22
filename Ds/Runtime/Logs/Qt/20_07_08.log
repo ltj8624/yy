@@ -1,0 +1,20 @@
+[ 2020-07-08T12:56:24+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2020-07-08T12:56:32+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2020-07-08T12:56:43+08:00 ] 42.101.209.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2020-07-08T12:56:49+08:00 ] 42.101.209.95 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+

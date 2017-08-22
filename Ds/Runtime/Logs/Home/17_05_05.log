@@ -1,0 +1,25 @@
+[ 2017-05-05T08:12:29+08:00 ] ::1 /yy/index.php/Home/Infomation/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+SQL: SHOW COLUMNS FROM `db_infomation` [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0043s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-05T08:22:53+08:00 ] ::1 /yy/index.php/Home/Infomation/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001542s ]
+SQL: SHOW COLUMNS FROM `db_infomation` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0046s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-05T08:26:47+08:00 ] ::1 /yy/index.php/Home/Infomation/delete/id/2
+ERR: 非法操作:delete
+
+[ 2017-05-05T08:56:56+08:00 ] ::1 /yy/index.php/Home/News/zxsave/id/1.html
+ERR: Think\Model:changeList方法不存在！
+
+[ 2017-05-05T09:01:25+08:00 ] ::1 /yy/index.php/Home/News/gysave/id/1.html
+ERR: 模板不存在:./Ds/Home/View/News/gysave.html
+

@@ -1,0 +1,9 @@
+[ 2016-11-18T14:26:52+08:00 ] ::1 /ds/index.php/Home/WorkExperience/search
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+
+[ 2016-11-18T14:27:14+08:00 ] ::1 /ds/index.php/Home/WorkExperience/search
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+
+[ 2016-11-18T14:32:23+08:00 ] ::1 /ds/index.php/Home/WorkExperience/search
+ERR: 表达式错误:1
+

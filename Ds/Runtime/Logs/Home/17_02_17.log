@@ -1,0 +1,64 @@
+[ 2017-02-17T09:09:10+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/look.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-02-17T09:47:14+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/look.html
+ERR: 模板不存在:./Ds/Home/View/ClassInfo/look.html
+
+[ 2017-02-17T09:47:48+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/look.html
+ERR: 非法操作:look
+
+[ 2017-02-17T09:56:47+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T10:53:38+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T13:39:17+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/student/cid/1.html
+ERR: XML标签语法错误 : name="<{$['sex']}
+
+[ 2017-02-17T13:39:57+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/student/cid/1.html
+ERR: XML标签语法错误 : name="<{$v.sex}
+
+[ 2017-02-17T14:17:32+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `oa_class_info` [ RunTime:0.0045s ]
+SQL: DELETE FROM `oa_class_info` WHERE `id` = '15' [ RunTime:0.0945s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001139s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001289s ]
+
+[ 2017-02-17T14:30:01+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T14:39:44+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T15:15:06+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/promotio/id/1.html
+ERR: 非法操作:promotio
+
+[ 2017-02-17T15:17:51+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/promotio/id/1.html
+ERR: 非法操作:promotio
+
+[ 2017-02-17T15:20:54+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/promotio/id/1.html
+ERR: 非法操作:promotio
+
+[ 2017-02-17T15:30:57+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T15:30:58+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T15:30:58+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T15:30:59+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T15:31:00+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index.html
+ERR: 无法加载控制器:StudentInfo
+
+[ 2017-02-17T17:07:16+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/index_yx.html
+ERR: 无法加载控制器:StudentInfo
+

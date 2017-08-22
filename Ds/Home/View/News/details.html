@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>产品详情页</title>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/css.css" />
+<script type="text/javascript" src="__PUBLIC__/js/jquery.min.js"></script>
+</head>
+<body>
+	<div id="pageAll">
+		<div class="pageTop">
+			<div class="page">
+				<img src="__PUBLIC__/img/coin02.png" /><span><a href="#">首页</a>
+				&nbsp;-&nbsp;<a href="<{:U('Home/Goods/index')}>">员工管理</a>
+			</div>
+		</div>
+		<div class="page">
+			<div class="userS showList">
+				<h1>产品信息</h1>
+				<a href="javascript:history.go(-1);">返回</a>
+				<div class="show clearfix">
+					<div class="img_list" >
+						<img src="__PUBLIC__/<{$arr.photo}>" >
+						
+					</div>
+					<div class='userShow' >
+						<h1><{$arr.gname}></h1>
+						<table boder='0' >
+							<tr>
+								<td><span class="bl">价格：</span></span><{$arr.pmuch}></td>
+								
+							</tr>
+							<tr>
+								<td><span class="bl">发布日期：</span><{$arr.createtime|date='Y-m-d',###}></td>
+								<td><span class="bl">下架剩余时间：</span>
+							</tr>
+							<tr>
+								<td><span class="bl">年化收益：</span><{$arr.income}></td>
+								<td><span class="bl">养殖周期：</span><{$arr.cycle}></td>
+							</tr>
+							<tr>
+								<td><span class="bl">产品期数：</span><{$arr.pnumber}></td>
+								<td><span class="bl">产品数量：</span><{$arr.pamout}></td>
+								<td><span class="bl">分红周期：</span><{$arr.ztime}></td>
+								
+									
+							</tr>
+							<tr>
+								<td colspan="2"><span class="bl">地址：</span><div>哈尔滨</div></td>
+							</tr>
+						</table>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</body>
+</html>

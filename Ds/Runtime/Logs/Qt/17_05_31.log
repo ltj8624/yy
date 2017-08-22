@@ -1,0 +1,1020 @@
+[ 2017-05-31T02:34:49+08:00 ] 202.100.84.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037563s ]
+
+[ 2017-05-31T05:14:29+08:00 ] 104.200.24.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-05-31T05:23:01+08:00 ] 61.135.169.8 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-05-31T08:42:29+08:00 ] 113.4.139.100 /index.php/Qt/Mr/mr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-05-31T08:42:29+08:00 ] 113.4.139.100 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2017-05-31T08:43:00+08:00 ] 113.4.139.100 /index.php/Qt/Login/redirec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-05-31T08:43:02+08:00 ] 61.148.242.21 /index.php/Qt/Login/wxlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-05-31T08:43:05+08:00 ] 61.148.242.21 /index.php/Qt/Login/wxlogin?code=031xbCVo0UGegp1BkEUo0bKAVo0xbCVt&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-05-31T08:43:06+08:00 ] 61.148.242.21 /index.php/Qt/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-05-31T08:43:12+08:00 ] 113.4.139.100 /index.php/Qt/Video/mc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-05-31T08:43:12+08:00 ] 101.226.89.115 /index.php/Qt/Login/wxlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-05-31T08:43:13+08:00 ] 113.4.139.100 /index.php/Qt/Goods/sc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-05-31T08:43:17+08:00 ] 101.226.125.103 /index.php/Qt/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-05-31T08:43:18+08:00 ] 101.226.125.100 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-05-31T08:43:18+08:00 ] 101.226.125.100 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-05-31T08:43:19+08:00 ] 140.207.185.112 /index.php/Qt/Goods/sc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2017-05-31T08:43:19+08:00 ] 180.153.201.15 /index.php/Qt/Video/mc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-05-31T08:43:21+08:00 ] 180.153.206.18 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-05-31T08:43:21+08:00 ] 180.153.206.18 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-05-31T08:43:23+08:00 ] 180.153.81.212 /index.php/Qt/Goods/sc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-05-31T08:43:37+08:00 ] 101.226.125.103 /index.php/Qt/Video/mc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-05-31T08:43:43+08:00 ] 101.226.33.208 /index.php/Qt/Video/mc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-05-31T08:43:45+08:00 ] 101.226.125.103 /index.php/Qt/Goods/sc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-05-31T08:43:50+08:00 ] 101.226.125.103 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-05-31T08:43:52+08:00 ] 101.226.125.103 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-05-31T08:44:32+08:00 ] 101.226.65.104 /index.php/Qt/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-05-31T08:44:33+08:00 ] 101.226.65.104 /index.php/Qt/Video/mc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-05-31T08:44:34+08:00 ] 101.226.65.104 /index.php/Qt/Goods/sc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-05-31T08:44:34+08:00 ] 101.226.65.104 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-05-31T08:44:37+08:00 ] 101.226.65.104 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2017-05-31T08:56:37+08:00 ] 120.92.32.141 /index.php/Qt/Video/mc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-05-31T10:16:13+08:00 ] 113.4.139.100 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2017-05-31T10:16:20+08:00 ] 113.4.139.100 /index.php/Qt/Video/mc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2017-05-31T10:16:21+08:00 ] 113.4.139.100 /index.php/Qt/Goods/sc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-05-31T10:16:30+08:00 ] 113.4.139.100 /index.php/Qt/Mr/mr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-05-31T10:16:30+08:00 ] 113.4.139.100 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-05-31T13:41:15+08:00 ] 113.4.139.100 /index.php/Qt/Mr/mr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-05-31T13:41:15+08:00 ] 113.4.139.100 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-05-31T13:41:25+08:00 ] 101.226.66.172 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-05-31T13:41:30+08:00 ] 101.226.33.206 /index.php/Qt/Login/dl.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-05-31T20:53:58+08:00 ] 140.205.225.202 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+
+[ 2017-05-31T20:53:58+08:00 ] 140.205.225.202 /install/images/default/top1_r.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:53:59+08:00 ] 140.205.225.202 /images/default/hd_a1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:53:59+08:00 ] 140.205.225.202 /upload/200812/20081230023106860.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:53:59+08:00 ] 140.205.225.202 /Images/Mlogin/Bitmap02.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:00+08:00 ] 140.205.225.202 /images/list_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:54:00+08:00 ] 140.205.225.202 /theme/theme/default/images/bg_bnt_user_base_over.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-05-31T20:54:01+08:00 ] 140.205.225.202 /lib/images/vtip_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:01+08:00 ] 140.205.225.202 /dede/img/button_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:01+08:00 ] 140.205.225.202 /plus/img/topsearch_submit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:01+08:00 ] 140.205.225.202 /include/dialog/img/sp_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+
+[ 2017-05-31T20:54:02+08:00 ] 140.205.225.202 /images/topbanner_bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:54:02+08:00 ] 140.205.225.202 /system/images/lnk/system.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:02+08:00 ] 140.205.225.202 /images/confirm_close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:03+08:00 ] 140.205.225.202 /template/images/li1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+
+[ 2017-05-31T20:54:03+08:00 ] 140.205.225.202 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:03+08:00 ] 140.205.225.202 /images/page_code.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+
+[ 2017-05-31T20:54:04+08:00 ] 140.205.225.202 /editors/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+ERR: 无法加载控制器:Editors
+
+[ 2017-05-31T20:54:04+08:00 ] 140.205.225.202 /images/samples/4_small.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:04+08:00 ] 140.205.225.202 /includes/templates/classic/images/stars_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:04+08:00 ] 140.205.225.202 /includes/templates/template_default/images/always-free-shipping.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:05+08:00 ] 140.205.225.202 /includes/templates/template_default/buttons/english/button_tell_a_friend.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:05+08:00 ] 140.205.225.202 /images/zttit02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T20:54:06+08:00 ] 140.205.225.202 /template/user/images/manage_r2_c18.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:06+08:00 ] 140.205.225.202 /images/gengtie.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-31T20:54:06+08:00 ] 140.205.225.202 /core/themes/stable/images/core/menu-collapsed-rtl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-05-31T20:54:07+08:00 ] 140.205.225.202 /misc/menu-expanded.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:07+08:00 ] 140.205.225.202 /store/Images/hdfk.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+
+[ 2017-05-31T20:54:07+08:00 ] 140.205.225.202 /skins/doccms_model_1/images/bg_contact_a.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:08+08:00 ] 140.205.225.202 /admini/images/s_managehtml/icon_refresh.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-05-31T20:54:08+08:00 ] 140.205.225.202 /images/menu_righttop.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:09+08:00 ] 140.205.225.202 /web/resource/images/bg_repno.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-05-31T20:54:09+08:00 ] 140.205.225.202 /resource/image/bg_repno.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-31T20:54:10+08:00 ] 140.205.225.202 /face/5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:10+08:00 ] 140.205.225.202 /xin/btn_regis.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:10+08:00 ] 140.205.225.202 /global/banklist_hnapay.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:11+08:00 ] 140.205.225.202 /Public/lottery/roulette/images/b0-2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:11+08:00 ] 140.205.225.202 /m/_/images/fileicon/jpg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:11+08:00 ] 140.205.225.202 /system/images/tab_17.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:12+08:00 ] 140.205.225.202 /Public/img/fotorama.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:12+08:00 ] 140.205.225.202 /data/system/kaixin001.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:13+08:00 ] 140.205.225.202 /data/captcha/gif/Small_Fonts/3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:13+08:00 ] 140.205.225.202 /inc_img/vote/vote2_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:13+08:00 ] 140.205.225.202 /i5808/images/menu_reduce.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:14+08:00 ] 140.205.225.202 /skins/images/ico_catalogue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:14+08:00 ] 140.205.225.202 /images/logout1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:14+08:00 ] 140.205.225.202 /forum/images/logout1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:14+08:00 ] 140.205.225.202 /console/images/bg11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:15+08:00 ] 140.205.225.202 /console/images/login.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:54:15+08:00 ] 140.205.225.202 /images/common/online_admin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:15+08:00 ] 140.205.225.202 /images/rank/soso.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:16+08:00 ] 140.205.225.202 /Admincp/images/login_r2_c2_r1_c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:16+08:00 ] 140.205.225.202 /statics/delivertitle.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+
+[ 2017-05-31T20:54:16+08:00 ] 140.205.225.202 /images/default/shopexstorelogo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:17+08:00 ] 140.205.225.202 /cn/images/banner_page_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T20:54:17+08:00 ] 140.205.225.202 /static/image/common/addicn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+
+[ 2017-05-31T20:54:17+08:00 ] 140.205.225.202 /static/space/t1/images/title.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-05-31T20:54:17+08:00 ] 140.205.225.202 /themes/forum/default/images/forum/lock.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:18+08:00 ] 140.205.225.202 /images/select_arrow_over.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:18+08:00 ] 140.205.225.202 /static/images/buttons_40.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:54:18+08:00 ] 140.205.225.202 /include/image/dui_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-05-31T20:54:19+08:00 ] 140.205.225.202 /template/default/index/images/anvico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-05-31T20:54:19+08:00 ] 140.205.225.202 /skin/default/image/add_job.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T20:54:19+08:00 ] 140.205.225.202 /views/images/admin/closex.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:20+08:00 ] 140.205.225.202 /template/default/images/gbook_btn_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-31T20:54:20+08:00 ] 140.205.225.202 /inc/images/captcha_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:20+08:00 ] 140.205.225.202 /inc/templates/manage/images/cross_grey_small.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:21+08:00 ] 140.205.225.202 /content/plugins/tips/icon_tips.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:21+08:00 ] 140.205.225.202 /content/templates/default/images/weibe_button.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:21+08:00 ] 140.205.225.202 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:22+08:00 ] 140.205.225.202 /job/templates/met/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载控制器:Job
+
+[ 2017-05-31T20:54:22+08:00 ] 140.205.225.202 /wap/templates/met/images/listico.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-31T20:54:22+08:00 ] 140.205.225.202 /install/images/install-step1-en_us.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:23+08:00 ] 140.205.225.202 /images/admina/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:23+08:00 ] 140.205.225.202 /images/admina/sitmap0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+
+[ 2017-05-31T20:54:24+08:00 ] 140.205.225.202 /images/side_bg_r2_c1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-05-31T20:54:24+08:00 ] 140.205.225.202 /e/install/images/noadd.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:24+08:00 ] 140.205.225.202 /d/js/acmsd/close_o.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:25+08:00 ] 140.205.225.202 /images/showsp/areabg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:25+08:00 ] 140.205.225.202 /SiteServer/Pic/Company/login.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-05-31T20:54:25+08:00 ] 140.205.225.202 /SiteServer/Pic/tree/itemContainer.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-05-31T20:54:26+08:00 ] 140.205.225.202 /Images/Silder/sldr3h_sl.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:26+08:00 ] 140.205.225.202 /public/images/xueli_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+
+[ 2017-05-31T20:54:26+08:00 ] 140.205.225.202 /statics/images/admin_img/arrowhead-y.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-31T20:54:27+08:00 ] 140.205.225.202 /phpsso_server/statics/images/msg_img/chrome_s_1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-31T20:54:27+08:00 ] 140.205.225.202 /images/buddies.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-31T20:54:27+08:00 ] 140.205.225.202 /script/valid_formdata.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载控制器:Script
+
+[ 2017-05-31T20:54:27+08:00 ] 140.205.225.202 /data/images/base_lr/email_button.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-05-31T20:54:28+08:00 ] 140.205.225.202 /themes/admin/images/fenlan_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-05-31T20:54:29+08:00 ] 140.205.225.202 /images/ad_location_middle_center1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:54:29+08:00 ] 140.205.225.202 /theme/t1/themebg_preview.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:29+08:00 ] 140.205.225.202 /images/table_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:54:29+08:00 ] 140.205.225.202 /images/ext/midi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:30+08:00 ] 140.205.225.202 /wp-includes/images/icon-pointer-flag.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-31T20:54:30+08:00 ] 140.205.225.202 /wp-admin/images/yes.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:30+08:00 ] 140.205.225.202 /wp-admin/js/farbtastic.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载控制器:Wp-admin
+
+[ 2017-05-31T20:54:31+08:00 ] 140.205.225.202 /wp-includes/js/swfupload/plugins/swfupload.queue.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载控制器:Wp-includes
+
+[ 2017-05-31T20:54:31+08:00 ] 140.205.225.202 /data/avatar/no_photo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:31+08:00 ] 140.205.225.202 /views/default/skin/blue/images/front/buying.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:32+08:00 ] 140.205.225.202 /install/images/guide_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:32+08:00 ] 140.205.225.202 /upload/2011/11/30/20111130113535527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+
+[ 2017-05-31T20:54:32+08:00 ] 140.205.225.202 /plus/weather/icon/a_12.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:32+08:00 ] 140.205.225.202 /question/images/face/images/ico_face_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:33+08:00 ] 140.205.225.202 /images/movienr_right01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:33+08:00 ] 140.205.225.202 /base/admin/images/linksup.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-31T20:54:34+08:00 ] 140.205.225.202 /base/templates/images/2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:34+08:00 ] 140.205.225.202 /zb_users/AVATAR/0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:34+08:00 ] 140.205.225.202 /zb_users/avatar/0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:35+08:00 ] 140.205.225.202 /images/forum_readme.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:35+08:00 ] 140.205.225.202 /img/images/commentLoad.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:35+08:00 ] 140.205.225.202 /install/images/bg-cmstop.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T20:54:36+08:00 ] 140.205.225.202 /images/modmenu_li_hover_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:36+08:00 ] 140.205.225.202 /administrator/templates/system/images/calendar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:37+08:00 ] 140.205.225.202 /images/banners/shop-ad-books.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-31T20:54:37+08:00 ] 140.205.225.202 /Images/Sort_Folder_Close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-31T20:54:37+08:00 ] 140.205.225.202 /Images/arrow_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:37+08:00 ] 140.205.225.202 /e/install/images/bg_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:38+08:00 ] 140.205.225.202 /images/public/hr_tijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:38+08:00 ] 140.205.225.202 /template/skin6/cn/images/ico_zlxz.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:38+08:00 ] 140.205.225.202 /inc/image/bj.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-31T20:54:39+08:00 ] 140.205.225.202 /install/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+ERR: 无法加载控制器:Install
+
+[ 2017-05-31T20:54:39+08:00 ] 140.205.225.202 /static/common/topic-min-img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-05-31T20:54:39+08:00 ] 140.205.225.202 /image/admin/add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-31T20:54:40+08:00 ] 140.205.225.202 /image/cflag/ad.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:40+08:00 ] 140.205.225.202 /Utility/pics/status-green.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:54:41+08:00 ] 140.205.225.202 /images/i_3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:41+08:00 ] 140.205.225.202 /product/waterimage/200x200.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:41+08:00 ] 140.205.225.202 /install/images/header-corners.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+
+[ 2017-05-31T20:54:41+08:00 ] 140.205.225.202 /images/gif_47_106.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T20:54:42+08:00 ] 140.205.225.202 /static/ayacms.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-31T20:54:42+08:00 ] 140.205.225.202 /media/xmlconnect/system/ok.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-31T20:54:42+08:00 ] 140.205.225.202 /LICENSE.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+ERR: 无法加载控制器:LICENSE
+
+[ 2017-05-31T20:54:42+08:00 ] 140.205.225.202 /skin/frontend/base/default/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:43+08:00 ] 140.205.225.202 /images/qq/qqkf2/Kf_bg03_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T20:54:43+08:00 ] 140.205.225.202 /js/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-31T20:54:43+08:00 ] 140.205.225.202 /bbs/css/images/add_category_hover.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T20:54:43+08:00 ] 140.205.225.202 /celive/admin/live/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T20:54:44+08:00 ] 140.205.225.202 /views/admin/images/arrowhead-y.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+
+[ 2017-05-31T20:54:45+08:00 ] 140.205.225.202 /extensions/kindeditor/themes/default/default.png)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unmatched parentheses at offset 5 C:\WWW\yy\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2017-05-31T20:54:45+08:00 ] 140.205.225.202 /style/default/hdwiki.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载控制器:Style
+
+[ 2017-05-31T20:54:46+08:00 ] 140.205.225.202 /style/default/fujian_top_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-05-31T20:54:46+08:00 ] 140.205.225.202 /style/default/index_login_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-31T20:54:46+08:00 ] 140.205.225.202 /style/default/style/bg_title.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-05-31T20:54:46+08:00 ] 140.205.225.202 /style/default/login_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:47+08:00 ] 140.205.225.202 /CN/nite/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-05-31T20:54:47+08:00 ] 140.205.225.202 /Images/dialog_closebtn_over.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:47+08:00 ] 140.205.225.202 /App_Themes/AdminDefaultTheme/DateTheme/bgteuw.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:48+08:00 ] 140.205.225.202 /Images/Microblog/dialog_rt.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-31T20:54:48+08:00 ] 140.205.225.202 /images/default/listico.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:48+08:00 ] 140.205.225.202 /images/default/images/button_plain_hover.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:49+08:00 ] 140.205.225.202 /template/default/images/ad_scroll_forward.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-31T20:54:50+08:00 ] 140.205.225.202 /adfile/ad9.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+ERR: 无法加载控制器:Adfile
+
+[ 2017-05-31T20:54:50+08:00 ] 140.205.225.202 /extmail/default/images/lastpg.d.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:51+08:00 ] 140.205.225.202 /adminsoft/templates/images/bullet_blue.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+
+[ 2017-05-31T20:54:51+08:00 ] 140.205.225.202 /public/plug/shipplug/exp04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:51+08:00 ] 140.205.225.202 /images/admin/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:52+08:00 ] 140.205.225.202 /images/admin/sprites.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:52+08:00 ] 140.205.225.202 /ACT_inc/ItemBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-05-31T20:54:52+08:00 ] 140.205.225.202 /ACT_inc/share/minusbottom.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-31T20:54:53+08:00 ] 140.205.225.202 /images/act_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-31T20:54:53+08:00 ] 140.205.225.202 /images/reg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-31T21:27:30+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+

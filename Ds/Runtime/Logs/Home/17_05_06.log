@@ -1,0 +1,8 @@
+[ 2017-05-06T18:12:22+08:00 ] ::1 /yy/index.php/Home/Infomation/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001439s ]
+SQL: SHOW COLUMNS FROM `db_infomation` [ RunTime:0.0139s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0066s ]
+ERR: 非法操作:nickname
+

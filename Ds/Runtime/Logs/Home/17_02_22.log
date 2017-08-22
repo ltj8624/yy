@@ -1,0 +1,133 @@
+[ 2017-02-22T11:33:39+08:00 ] ::1 /OA43/index.php/Home/Public/css/css.css
+ERR: 非法操作:css
+
+[ 2017-02-22T11:33:39+08:00 ] ::1 /OA43/index.php/Home/Public/js/script.js
+ERR: 非法操作:js
+
+[ 2017-02-22T11:33:39+08:00 ] ::1 /OA43/index.php/Home/Public/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-02-22T11:33:39+08:00 ] ::1 /OA43/index.php/Home/Public/js/script.js
+ERR: 非法操作:js
+
+[ 2017-02-22T11:40:10+08:00 ] ::1 /OA43/index.php/Home/Public/css/css.css
+ERR: 非法操作:css
+
+[ 2017-02-22T11:40:10+08:00 ] ::1 /OA43/index.php/Home/Public/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-02-22T11:40:16+08:00 ] ::1 /OA43/index.php/Home/Public/js/script.js
+ERR: 非法操作:js
+
+[ 2017-02-22T11:48:40+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/change
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001835s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 64 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `oa_work_ability_test` SET `entrance_work_aptitude`='1',`professional_aptitude`='1',`job_quality`='2',`diploma`='1',`stu_id`='64',`create_time`='1487735320' WHERE `stu_id` = 64 [ RunTime:0.0729s ]
+
+[ 2017-02-22T11:49:04+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/change
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001890s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 64 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `oa_work_ability_test` SET `entrance_work_aptitude`='1',`professional_aptitude`='1',`job_quality`='2',`diploma`='1',`stu_id`='64',`create_time`='1487735344' WHERE `stu_id` = 64 [ RunTime:0.0487s ]
+
+[ 2017-02-22T11:50:30+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/change
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001506s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 64 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `oa_work_ability_test` SET `entrance_work_aptitude`='1',`professional_aptitude`='1',`job_quality`='2',`diploma`='1',`stu_id`='64',`create_time`='1487735430' WHERE `stu_id` = 64 [ RunTime:0.0753s ]
+
+[ 2017-02-22T11:53:40+08:00 ] ::1 /OA43/index.php/Home/TeacherEvaluate/index.html
+ERR: 无法加载控制器:TeacherEvaluate
+
+[ 2017-02-22T11:53:40+08:00 ] ::1 /OA43/index.php/Home/TeacherEvaluate/index.html
+ERR: 无法加载控制器:TeacherEvaluate
+
+[ 2017-02-22T11:53:40+08:00 ] ::1 /OA43/index.php/Home/TeacherEvaluate/index.html
+ERR: 无法加载控制器:TeacherEvaluate
+
+[ 2017-02-22T11:54:27+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/index/id/64/lname/%E6%AC%A7%E6%9C%88.html
+ERR: 非法操作:index
+
+[ 2017-02-22T11:56:29+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/change
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001781s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 62 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `oa_work_ability_test` SET `entrance_work_aptitude`='1',`professional_aptitude`='2',`job_quality`='2',`diploma`='1',`stu_id`='62',`create_time`='1487735789' WHERE `stu_id` = 62 [ RunTime:0.0741s ]
+
+[ 2017-02-22T11:57:31+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/change
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001810s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0053s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 62 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `oa_work_ability_test` SET `entrance_work_aptitude`='1',`professional_aptitude`='2',`job_quality`='1',`diploma`='1',`stu_id`='62',`create_time`='1487735851' WHERE `stu_id` = 62 [ RunTime:0.0515s ]
+
+[ 2017-02-22T13:51:57+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/change
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001751s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 59 LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `oa_work_ability_test` (`test_status`,`entrance_work_aptitude`,`professional_aptitude`,`job_quality`,`diploma`,`stu_id`,`create_time`) VALUES ('1','2','4','4','2','59','1487742717') [ RunTime:0.0979s ]
+SQL: UPDATE `oa_student_info` SET `status_c`='2' WHERE `id` = 59 [ RunTime:0.1211s ]
+
+[ 2017-02-22T13:58:52+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/change
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001506s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 59 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `oa_work_ability_test` SET `entrance_work_aptitude`='2',`professional_aptitude`='4',`job_quality`='4',`diploma`='2',`stu_id`='59',`create_time`='1487743132' WHERE `stu_id` = 59 [ RunTime:0.0618s ]
+
+[ 2017-02-22T14:01:12+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/index.html
+ERR: 无法加载控制器:WorkExperience
+
+[ 2017-02-22T14:05:17+08:00 ] ::1 /OA43/index.php/Home/WorkAbilityTest/change
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001825s ]
+SQL: SHOW COLUMNS FROM `oa_work_ability_test` [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `oa_work_ability_test` WHERE `stu_id` = 61 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `oa_work_ability_test` SET `entrance_work_aptitude`='1',`professional_aptitude`='1',`job_quality`='1',`diploma`='2',`stu_id`='61',`create_time`='1487743517' WHERE `stu_id` = 61 [ RunTime:0.0646s ]
+
+[ 2017-02-22T14:21:40+08:00 ] ::1 /OA43/index.php/Home/TeacherEvaluate/index.html
+ERR: 无法加载控制器:TeacherEvaluate
+
+[ 2017-02-22T15:34:08+08:00 ] ::1 /OA43/index.php/Home/Public/css/css.css
+ERR: 非法操作:css
+
+[ 2017-02-22T15:34:08+08:00 ] ::1 /OA43/index.php/Home/Public/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-02-22T15:35:04+08:00 ] ::1 /OA43/index.php/Home/Public/css/css.css
+ERR: 非法操作:css
+
+[ 2017-02-22T15:35:04+08:00 ] ::1 /OA43/index.php/Home/Public/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-02-22T15:35:11+08:00 ] ::1 /OA43/index.php/Home/Public/css/css.css
+ERR: 非法操作:css
+
+[ 2017-02-22T15:35:11+08:00 ] ::1 /OA43/index.php/Home/Public/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-02-22T16:29:44+08:00 ] ::1 /OA43/index.php/Home/TeacherEvaluate/%3C%7BU('Home/TeacherEvaluate/view',array('tid'=%3E$v%5B'usert_id'%5D,'cid'=%3E$v%5B'class_id'%5D,'status'=%3E$v%5B'status'%5D))%7D%3E
+ERR: 非法操作:
+

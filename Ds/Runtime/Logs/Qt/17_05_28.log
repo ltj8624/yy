@@ -1,0 +1,15 @@
+[ 2017-05-28T03:19:17+08:00 ] 140.205.205.4 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021630s ]
+
+[ 2017-05-28T05:18:25+08:00 ] 61.135.169.42 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-05-28T06:14:39+08:00 ] 140.205.205.9 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+

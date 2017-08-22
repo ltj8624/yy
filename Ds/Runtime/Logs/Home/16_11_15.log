@@ -1,0 +1,61 @@
+[ 2016-11-15T09:34:45+08:00 ] ::1 /ds1107/index.php/Home/ClassInfo/get_class
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_class_info` [ RunTime:0.0560s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `oa_class_change` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_class_style` [ RunTime:0.0160s ]
+SQL: SELECT `id`,`class_code`,`class_type` FROM `oa_class_info` WHERE `del` = 1  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-15T16:14:30+08:00 ] 192.168.0.10 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.0090s ]
+
+[ 2016-11-15T16:14:31+08:00 ] 192.168.0.10 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0210s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.0640s ]
+
+[ 2016-11-15T16:29:59+08:00 ] 192.168.0.40 /ds1107/index.php/Home/StudentInfo/entrance
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `oa_class_info` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `oa_student_info` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `oa_user_info` WHERE `del` = 1  [ RunTime:0.0010s ]
+SQL: SELECT `id`,`class_code`,`class_type` FROM `oa_class_info` WHERE `del` = 1  [ RunTime:0.0010s ]
+SQL: UPDATE `oa_student_info` SET `status`='2' WHERE `id` = 59 [ RunTime:0.0670s ]
+
+[ 2016-11-15T17:22:35+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.1920s ]
+
+[ 2016-11-15T17:22:37+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='2' WHERE ( id=32 ) [ RunTime:0.0150s ]
+
+[ 2016-11-15T17:22:38+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.1730s ]
+

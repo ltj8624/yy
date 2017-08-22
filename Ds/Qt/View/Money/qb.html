@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+<title>云联金阳</title>
+<link rel="stylesheet" href="__PUBLIC__/css/mr.css" type="text/css" />
+<link rel="stylesheet" href="css/mr.css" type="text/css" />
+<script src="__PUBLIC__/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $(".szbt h1").click(function(){
+		var index = $(this).index()
+		$(this).addClass("hover").siblings().removeClass("hover");
+		$(".szk div:eq(" + index + ")").addClass("hover").siblings().removeClass("hover");
+	})
+});
+</script>
+</head>
+<body>
+<div class="top">
+  <!--<div class="biaoqian2"></div>
+  <h1><span>第一期</span></h1>-->
+  <a href="javascript:history.go(-1);"><img src="__PUBLIC__/img/jiantou.png" /></a>牧人中心-钱包
+</div>
+<div class="box1">
+  <div class="yue">
+  
+  余额：<{$money}>元
+  </div>
+  <div class="qianbaoanniu"><a href="<{:U('Qt/Money/chongzhi')}>">充值</a><a href="<{:U('Qt/Money/tixian')}>">提现</a></div>
+  <div class="yhklb"><h1>银行卡信息</h1>
+    <if condition="$bank neq ''">
+  <p><{$nickname}>：<{$card}></p>
+  <p><a href="<{:U('Qt/Money/yhk')}>">修改银行卡</a></p>
+      <else/>
+      <p><a href="<{:U('Qt/Money/yhk')}>">+添加银行卡</a></p>
+    </if>
+  </div>
+  <div class="szbt">
+    <h1 class="szjl hover">全部收支记录</h1>
+    <h1 class="szjl ">收入记录</h1>
+    <h1 class="szjl ">支出记录</h1>
+  </div>
+  <div class="szk">
+  <div class="qbk hover">
+  <volist name='arr' id='v'>
+     <switch name="v['type']" >
+     		<case value="1"><p><{$v['time'] | date='Y-m-d',###}>购买<{$v['xname']}>,支出<{$v['money']}>元。</p></case>
+  		    <case value="2"><p><{$v['time'] | date='Y-m-d',###}>充值<{$v['money']}>元。</p></case>
+            <case value="3"><p><{$v['time'] | date='Y-m-d',###}><{$v['xname']}><{$v['money']}>元。</p></case>
+    									</switch>
+     
+     </volist>
+  </div>
+  <div class="qbk">
+     <volist name='acz' id='v'>
+    <p><{$v['time'] | date='Y-m-d',###}><{$v['xname']}><{$v['money']}>元。</p>
+    </volist>
+  </div>
+  <div class="qbk">
+    <volist name='axf' id='v'>
+     <switch name="v['type']" >
+     		<case value="1"><p><{$v['time'] | date='Y-m-d',###}>购买<{$v['xname']}>,支出<{$v['money']}>元。</p></case>
+  		    <case value="2"><p><{$v['time'] | date='Y-m-d',###}>充值<{$v['money']}>元。</p></case>
+            <case value="3"><p><{$v['time'] | date='Y-m-d',###}><{$v['xname']}><{$v['money']}>元。</p></case>
+    									</switch>
+    
+     </volist>
+  </div>
+  </div>
+</div>
+</body>
+</html>

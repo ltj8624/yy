@@ -1,0 +1,9 @@
+[ 2016-11-16T21:03:24+08:00 ] ::1 /ds/index.php/Home/Public/main.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'oa1107'
+
+[ 2016-11-16T21:09:12+08:00 ] ::1 /ds/index.php/Home/AuthGroup/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-11-16T22:00:45+08:00 ] ::1 /ds/index.php/Home/AuthGroup/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '1，2，3，4，5，6，7，8，9，10，11，12，13，14，15，16' in 'where clause'
+

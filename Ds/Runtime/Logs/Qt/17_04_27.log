@@ -1,0 +1,15 @@
+[ 2017-04-27T13:39:57+08:00 ] ::1 /yy/index.php/Qt/Index/sc.html
+ERR: 非法操作:sc
+
+[ 2017-04-27T13:43:21+08:00 ] ::1 /yy/index.php/Qt/Index/mr.html
+ERR: 非法操作:mr
+
+[ 2017-04-27T14:00:35+08:00 ] ::1 /yy/index.php/Qt/Index/sc.html
+ERR: 非法操作:sc
+
+[ 2017-04-27T14:00:42+08:00 ] ::1 /yy/index.php/Qt/Index/mr.html
+ERR: 非法操作:mr
+
+[ 2017-04-27T16:46:27+08:00 ] ::1 /yy/index.php/Qt/User/sfrz
+ERR: Think\Model:depadd方法不存在！
+

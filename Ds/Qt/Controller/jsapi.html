@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+<title>云联金阳</title>
+<link rel="stylesheet" href="__PUBLIC__/css/sc.css" type="text/css" />
+<script src="__PUBLIC__/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+</head>
+<body> 
+<div class="top">
+<span><a href="<{:U('Qt/Yl/yl')}>">我的羊栏</a></span><a href="javascrip:his"><img src="__PUBLIC__/img/jiantou.png" /></a>产品订单记录
+</div>
+<div class="ddk">
+  <ul>
+   <form action="" method="post">
+  
+    <li><h2><span></span>订单号：<{$out_trade_no}> </h2>
+    
+    
+    <p>共件，总价：<span><input type="hidden" name="money" value="1"/></span></p></li>
+    
+  <input type="hidden" name="out_trade_no" id="out_trade_no" value="<{$out_trade_no}>">
+         <input type="submit" value="确认付款" class="an1" onclick="callpay()"/>
+           
+   </form>
+   
+  </ul>
+</div>
+		  </body>
+	</html>  
+ <script type="text/javascript">
+
+
+
+	function jsApiCall()
+    {
+        WeixinJSBridge.invoke(
+        	'getBrandWCPayRequest',
+            {$jsApiParameters},
+            function(res){
+                WeixinJSBridge.log(res.err_msg);
+                if(res.err_msg == 'get_brand_wcpay_request:cancel') {                		
+                        alert("您已取消了此次支付");
+                       	
+                    }else if(res.err_msg == 'get_brand_wcpay_request:fail') {
+                        alert("支付失败");
+                       
+                    } else if(res.err_msg == 'get_brand_wcpay_request:ok') {                	
+                    	check();
+	                    alert("支付成功,可以在我的订单中查看!");//跳转到订单页面
+	                  	location.href='__MODULE__/include/orderquery';
+                } else {
+                     alert("未知错误"+res.error_msg);                   
+                }         	
+            }
+            );
+    }
+
+
+	function callpay()
+	{
+		if (typeof WeixinJSBridge == "undefined"){
+		    if( document.addEventListener ){
+		        document.addEventListener('WeixinJSBridgeReady', jsApiCall, false);
+		    }else if (document.attachEvent){
+		        document.attachEvent('WeixinJSBridgeReady', jsApiCall); 
+		        document.attachEvent('onWeixinJSBridgeReady', jsApiCall);
+		    }
+		}else{
+		    jsApiCall();
+		}
+	}
+	</script>  
+
+<script type="text/javascript">
+
+function check(){
+	var url = "__CONTROLLER__/notify";
+	var out_trade_no = $('input[name="out_trade_no"]').val();
+	var param = {'out_trade_no':out_trade_no};
+	$.post(url,param,function(res){
+		
+	})
+	 
+}
+
+</script>

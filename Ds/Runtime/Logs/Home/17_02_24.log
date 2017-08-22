@@ -1,0 +1,97 @@
+[ 2017-02-24T10:19:46+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/search.html?school=&professional=&company=&city=&name=&sex=&money_min=&money_max=&welfare%5B%5D=1&welfare%5B%5D=3&welfare%5B%5D=4&welfare%5B%5D=5&welfare%5B%5D=6&welfare%5B%5D=7&welfare%5B%5D=8
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND w.del = 1 AND s.del = 1 AND s.stu_type IN ('8','9') LIMIT 1' at line 1
+
+[ 2017-02-24T10:20:10+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/search.html?school=&professional=&company=&city=&name=&sex=&money_min=&money_max=&welfare%5B%5D=8&welfare%5B%5D=9&welfare%5B%5D=10
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND w.del = 1 AND s.del = 1 AND s.stu_type IN ('8','9') LIMIT 1' at line 1
+
+[ 2017-02-24T10:34:21+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/search.html?school=&professional=&company=&city=&name=&sex=&money_min=&money_max=&welfare%5B%5D=12&welfare%5B%5D=13
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND w.del = 1 AND s.del = 1 AND s.stu_type IN ('8','9') LIMIT 1' at line 1
+
+[ 2017-02-24T10:34:33+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/search.html?school=&professional=&company=&city=&name=&sex=&money_min=&money_max=&welfare%5B%5D=12&welfare%5B%5D=13
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND w.del = 1 AND s.del = 1 AND s.stu_type IN ('8','9') LIMIT 1' at line 1
+
+[ 2017-02-24T10:36:58+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/search.html?school=&professional=&company=&city=&name=&sex=&money_min=&money_max=&welfare%5B%5D=13
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND w.del = 1 AND s.del = 1 AND s.stu_type IN ('8','9') LIMIT 1' at line 1
+
+[ 2017-02-24T10:37:25+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/search.html?school=&professional=&company=&city=&name=&sex=&money_min=&money_max=&welfare%5B%5D=7&welfare%5B%5D=8&welfare%5B%5D=9
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND w.del = 1 AND s.del = 1 AND s.stu_type IN ('8','9') LIMIT 1' at line 1
+
+[ 2017-02-24T11:22:38+08:00 ] ::1 /OA43/index.php/Home/TeacherEvaluate/%3C%7BU('Home/TeacherEvaluate/index')%7D%3E?tid=16&cid=
+ERR: 非法操作:
+
+[ 2017-02-24T11:48:28+08:00 ] ::1 /OA43/index.php/Home/AuthRule/index.html
+ERR: 无法加载控制器:AuthRule
+
+[ 2017-02-24T11:56:32+08:00 ] ::1 /OA43/index.php/Home/AuthRule/index.html
+ERR: 无法加载控制器:AuthRule
+
+[ 2017-02-24T11:56:33+08:00 ] ::1 /OA43/index.php/Home/AuthRule/index.html
+ERR: 无法加载控制器:AuthRule
+
+[ 2017-02-24T14:56:24+08:00 ] ::1 /OA43/index.php/Home/Login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T15:04:55+08:00 ] ::1 /OA43/index.php/Home/Login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T15:32:25+08:00 ] ::1 /OA43/index.php/Home/Login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T15:33:23+08:00 ] ::1 /OA43/index.php/Home/Login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T15:43:59+08:00 ] ::1 /OA43/index.php/Home/ClassInfo/tiaoban.htmlArray
+ERR: 非法操作:tiaoban.htmlArray
+
+[ 2017-02-24T15:51:50+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-02-24T15:51:51+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-02-24T15:52:12+08:00 ] ::1 /OA43/index.php/Home/WorkExperience/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-02-24T16:20:04+08:00 ] ::1 /OA43/index.php/Home/Login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T16:20:22+08:00 ] ::1 /OA43/index.php/Home/login/index.html
+ERR: 非法操作:index
+
+[ 2017-02-24T16:20:49+08:00 ] ::1 /OA43/index.php/Home/login/index.html
+ERR: 非法操作:index
+
+[ 2017-02-24T16:20:58+08:00 ] ::1 /OA43/index.php/Home/Login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T16:21:19+08:00 ] ::1 /OA43/index.php/Home/login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T16:22:58+08:00 ] ::1 /OA43/index.php/Home/Login/login.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oa_php.tb_auth_group_access' doesn't exist
+
+[ 2017-02-24T16:26:50+08:00 ] ::1 /OA43/index.php/Home/Login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T16:27:01+08:00 ] ::1 /OA43/index.php/Home/Login/yzm
+ERR: 非法操作:yzm
+
+[ 2017-02-24T16:42:43+08:00 ] ::1 /OA43/index.php/Home/StudentInfo/ruxue.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001783s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `oa_class_info` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `oa_student_info` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `oa_user_info` WHERE `del` = 1  [ RunTime:0.0006s ]
+NOTIC: [2] Missing argument 1 for Home\Model\ClassInfoModel::get_class(), called in E:\wamp\www\OA43\Ds\Home\Controller\StudentInfoController.class.php on line 23 and defined E:\wamp\www\OA43\Ds\Home\Model\ClassInfoModel.class.php 第 36 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_class_info` WHERE `del` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `oa_class_info` WHERE `del` = 1 ORDER BY id asc LIMIT 0,3   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0048s ]
+SQL: SELECT `name`,`id` FROM `oa_user_info`  [ RunTime:0.0004s ]
+SQL: UPDATE `oa_student_info` SET `status`='2' WHERE `id` = 47 [ RunTime:0.0549s ]
+
+[ 2017-02-24T17:04:22+08:00 ] ::1 /OA43/index.php/Home/TeacherEvaluate/add.html
+ERR: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+

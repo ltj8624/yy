@@ -1,0 +1,124 @@
+[ 2017-05-04T08:50:52+08:00 ] ::1 /yy/index.php/Home/Cont/ht/vid/1.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-05-04T09:37:49+08:00 ] ::1 /yy/index.php/Home/WorkExperience/zz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+SQL: SHOW COLUMNS FROM `db_order` [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `db_product` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0042s ]
+SQL: UPDATE `db_order` SET `remark`='onellll' WHERE `order_id` = 1 [ RunTime:0.0504s ]
+
+[ 2017-05-04T10:03:54+08:00 ] ::1 /yy/index.php/Home/News/zx.html
+ERR: 非法操作:zx
+
+[ 2017-05-04T10:24:08+08:00 ] ::1 /yy/index.php/Home/Newszxadd
+ERR: 无法加载控制器:Newszxadd
+
+[ 2017-05-04T10:37:31+08:00 ] ::1 /yy/index.php/Home/Newszxadd
+ERR: 无法加载控制器:Newszxadd
+
+[ 2017-05-04T10:57:13+08:00 ] ::1 /yy/index.php/Home/News/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-04T13:04:33+08:00 ] ::1 /yy/index.php/Home/News/zxdelete/id/3
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yy.db_news' doesn't exist
+
+[ 2017-05-04T13:18:10+08:00 ] ::1 /yy/index.php/Home/News/zxsave/id/1.html
+ERR: 模板不存在:./Ds/Home/View/News/zxsave.html
+
+[ 2017-05-04T14:28:33+08:00 ] ::1 /yy/index.php/Home/News/gysave/id/1.html
+ERR: 非法操作:gysave
+
+[ 2017-05-04T15:30:12+08:00 ] ::1 /yy/index.php/Home/infomation/xx.html
+ERR: 非法操作:xx
+
+[ 2017-05-04T15:30:30+08:00 ] ::1 /yy/index.php/Home/infomation/xx.html
+ERR: 非法操作:xx
+
+[ 2017-05-04T15:30:32+08:00 ] ::1 /yy/index.php/Home/infomation/xx.html
+ERR: 非法操作:xx
+
+[ 2017-05-04T15:30:34+08:00 ] ::1 /yy/index.php/Home/infomation/xx.html
+ERR: 非法操作:xx
+
+[ 2017-05-04T15:30:34+08:00 ] ::1 /yy/index.php/Home/infomation/xx.html
+ERR: 非法操作:xx
+
+[ 2017-05-04T15:30:34+08:00 ] ::1 /yy/index.php/Home/infomation/xx.html
+ERR: 非法操作:xx
+
+[ 2017-05-04T15:30:50+08:00 ] ::1 /yy/index.php/Home/infomation/index.html
+ERR: Think\Model:getlist方法不存在！
+
+[ 2017-05-04T16:41:37+08:00 ] ::1 /yy/index.php/Home/WorkExperience/zz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001533s ]
+SQL: SHOW COLUMNS FROM `db_order` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `db_product` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0042s ]
+SQL: UPDATE `db_order` SET `remark`='onellll' WHERE `order_id` = 1 [ RunTime:0.0951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001463s ]
+
+[ 2017-05-04T17:02:42+08:00 ] ::1 /yy/index.php/Home/Product/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-04T17:04:11+08:00 ] ::1 /yy/index.php/Home/Product/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001941s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-04T17:52:52+08:00 ] ::1 /yy/index.php/Home/Infomation/add
+ERR: 非法操作:add
+
+[ 2017-05-04T18:05:36+08:00 ] ::1 /yy/index.php/Home/Infomation/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+SQL: SHOW COLUMNS FROM `db_infomation` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0069s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-04T18:07:37+08:00 ] ::1 /yy/index.php/Home/Infomation/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002231s ]
+SQL: SHOW COLUMNS FROM `db_infomation` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0047s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-04T18:07:49+08:00 ] ::1 /yy/index.php/Home/Infomation/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001927s ]
+SQL: SHOW COLUMNS FROM `db_infomation` [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0048s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-04T18:07:50+08:00 ] ::1 /yy/index.php/Home/Infomation/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+SQL: SHOW COLUMNS FROM `db_infomation` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0049s ]
+ERR: 非法操作:nickname
+
+[ 2017-05-04T18:07:51+08:00 ] ::1 /yy/index.php/Home/Infomation/nickname
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001677s ]
+SQL: SHOW COLUMNS FROM `db_infomation` [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0056s ]
+ERR: 非法操作:nickname
+

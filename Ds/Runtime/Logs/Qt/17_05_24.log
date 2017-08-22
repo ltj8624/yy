@@ -1,0 +1,15 @@
+[ 2017-05-24T11:43:02+08:00 ] 140.205.205.2 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-05-24T16:36:41+08:00 ] 140.205.205.2 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+
+[ 2017-05-24T23:04:13+08:00 ] 113.233.240.102 /index.php/Qt/Tg/tg.html?scode=4506&from=singlemessage&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025950s ]
+

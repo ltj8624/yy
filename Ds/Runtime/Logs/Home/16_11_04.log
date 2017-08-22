@@ -1,0 +1,70 @@
+[ 2016-11-04T08:26:50+08:00 ] ::1 /Dsupport/index.php/Home/ClassInfo/get_class
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `oa_class_info` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `oa_class_change` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `oa_class_style` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`class_code` FROM `oa_class_info` WHERE ( del = 1 )  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-04T08:30:12+08:00 ] ::1 /Dsupport/index.php/Home/ClassInfo/style_del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `oa_class_info` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `oa_student_info` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `oa_class_change` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `oa_class_style` [ RunTime:0.0040s ]
+SQL: UPDATE `oa_class_style` SET `del`='2' WHERE `id` = 21 [ RunTime:0.0020s ]
+
+[ 2016-11-04T09:38:10+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/index.html
+ERR: Think\Model:get_work_class方法不存在！
+
+[ 2016-11-04T09:51:11+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/index.html
+ERR: Think\Model:get_work_class方法不存在！
+
+[ 2016-11-04T10:32:00+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2016-11-04T11:46:40+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/work_list/id/1
+ERR: 表达式错误:7,9
+
+[ 2016-11-04T11:47:18+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/work_list/id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN oa_student_discipline d on s.id=d.stu_id  WHERE `del` = 1 AND `class_id` = ' at line 1
+
+[ 2016-11-04T11:47:43+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/work_list/id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN oa_student_discipline d on s.id=d.stu_id  WHERE s.del = 1 AND `class_id` = ' at line 1
+
+[ 2016-11-04T11:48:46+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/work_list/id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN oa_student_discipline d on s.id=d.stu_id  WHERE s.del = 1 AND `class_id` = ' at line 1
+
+[ 2016-11-04T11:48:49+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/work_list/id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN oa_student_discipline d on s.id=d.stu_id  WHERE s.del = 1 AND `class_id` = ' at line 1
+
+[ 2016-11-04T11:49:13+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/work_list/id/1
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '' in 'field list'
+
+[ 2016-11-04T11:49:40+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/work_list/id/1
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'create_time' in order clause is ambiguous
+
+[ 2016-11-04T14:42:44+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/unemployed/id/1/w/2/wn/6/cl/P1011/sid/12/re/1
+ERR: Think\Controller:field方法不存在！
+
+[ 2016-11-04T14:47:36+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/unemployed/id/1/w/2/wn/6/c/P1011/sid/12
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-11-04T14:48:40+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/unemployed/id/1/w/2/wn/6/c/P1011/sid/12
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-11-04T14:49:06+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/unemployed/id/1/w/2/wn/6/c/P1011/sid/12
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-11-04T17:01:58+08:00 ] ::1 /Dsupport/index.php/Home/WorkExperience/employment/id/1/sid/12
+ERR: Think\Controller:create方法不存在！
+

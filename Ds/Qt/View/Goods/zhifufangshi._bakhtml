@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+<title>云联金阳</title>
+<link rel="stylesheet" href="__PUBLIC__/css/sc.css" type="text/css" />
+<script src="__PUBLIC__/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".dd1 h4").click(function(){
+		$(this).addClass("on").siblings().removeClass("on")
+		$(this).children("input").attr("checked","checked")
+		$(this).siblings().children("input").removeAttr("checked","checked"); 
+	})
+})
+</script>
+</head>
+<body style="background-color:rgba(204,204,204,0.05)">
+<div class="top" style="background-color:rgba(204,0,0,0.6)"><a href="javascript:history.go(-1);"><img src="__PUBLIC__/img/jiantou.png" /></a>商城-支付</div>
+<div class="ddk">
+  
+  
+  <div class="dd1">
+  <h1 class="cheng">选择支付方式</h1>
+  <h4 class="on"><img src="__PUBLIC__/img/qianbao2.png" /><input name="a" type="radio"  class="danxuan" value="" checked=""/>余额支付 </h4>
+ <h4><img src="__PUBLIC__/img/zhifubao.png" /><input name="a" type="radio"  class="danxuan" value=""/>支付宝支付</h4>
+ <h4><img src="__PUBLIC__/img/weixin3.png" /><input name="a" type="radio" value=""  class="danxuan"/>微信支付 </h4>
+  </div>
+<input name="提交" type="submit" class="an" value="确认"/>
+</div>
+</body>
+</html>

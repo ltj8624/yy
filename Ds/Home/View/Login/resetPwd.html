@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>修改密码</title>
+<link rel="stylesheet" type="text/css" href="../../../Public/css/css.css" />
+<script type="text/javascript" src="../../../Public/js/jquery.min.js"></script>
+</head>
+<body>
+
+	<div id="pageAll">
+		<div class="pageTop">
+			<div class="page">
+				<img src="../../../Public/img/coin02.png" /><span><a href="../Index/index.html">首页</a>-</span>&nbsp;修改密码
+			</div>
+		</div>
+		<div class="page ">
+			<div class="showList">
+				<h1>修改密码</h1>
+				<a href="javascript:history.go(-1);">返回</a>
+				<div class="baBody">
+				<form action="/Dsupport/index.php/Home/Login/resetPwd" method="post">
+					<table class='aDD'>
+						<tr>
+							<th>原密码：</th>
+							<td class="td1">
+								<input type="password" class="input3" name="oldPwd" placeholder="请输入原密码"/>
+							</td>
+							<td></td>
+						</tr>
+						<tr>
+							<th>新密码：</th>
+							<td>
+								<input type="password" class="input3" name="pwd" placeholder="请输入新密码"/>
+							</td>
+							<td></td>
+						</tr>
+						<tr>
+							<th>确认密码：</th>
+							<td>
+								<input type="password" class="input3" name="repwd" placeholder="请输入确认密码"/>
+							</td>
+							<td></td>
+						</tr>
+					</table>
+					<div class="bbD">
+						<input type="submit" value="修改" class="btn_ok"/>
+						<a class="btn_ok btn_no" href="javascript:history.go(-1);">取消</a>
+					</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+<title>云联金阳</title>
+<link rel="stylesheet" href="__PUBLIC__/css/cs.css" type="text/css" />
+<script src="__PUBLIC__/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	$(".nav li").click(function(){
+		var index = $(this).index()
+		$(".box:eq(" +index+ ")").css("left","0vw").prev().css("left","-100vw").prev().css("left","-100vw").prev().css("left","-100vw")
+		$(".box:eq(" +index+ ")").next().css("left","100vw").next().css("left","100vw").next().css("left","100vw");
+		$(this).addClass("hover").siblings().removeClass("hover");
+	});
+	$(".goumai").click(function(){
+		$(".box4 iframe").attr("src","<{:U('Qt/Product/goumai')}>");
+		$(".box2 iframe,.box3 iframe").removeAttr("src")<!--*****-->
+		$(".box4").css("left","0vw").prev().css("left","-100vw").prev().css("left","-100vw").prev().css("left","-100vw");
+		$(".nav4").addClass("hover").siblings().removeClass("hover");
+		
+	});
+	$(".yanglan22").click(function(){
+		$(".box4 iframe").attr("src","<{:U('Qt/Yl/yl')}>");
+		$(".box2 iframe,.box3 iframe").removeAttr("src")<!--*****-->
+		$(".box4").css("left","0vw").prev().css("left","-100vw").prev().css("left","-100vw").prev().css("left","-100vw");
+		$(".nav4").addClass("hover").siblings().removeClass("hover");
+		
+	});
+	
+	$(".jiankong").click(function(){
+		$(".box2 iframe").attr("src","<{:U('Qt/Video/mc')}>");
+		$(".box4 iframe,.box3 iframe").removeAttr("src")<!--*****-->
+		$(".box2").css("left","0vw").prev().css("left","-100vw");
+		$(".nav2").addClass("hover").siblings().removeClass("hover");
+		
+	});
+	
+	$(".nav2").click(function(){
+		$(".box2 iframe").attr("src","<{:U('Qt/Video/mc')}>");
+		$(".box4 iframe,.box3 iframe").removeAttr("src")<!--*****-->
+	})
+	$(".nav3").click(function(){
+		$(".box3 iframe").attr("src","<{:U('Qt/Goods/sc')}>");
+		$(".box4 iframe,.box2 iframe").removeAttr("src")<!--*****-->
+	})
+	
+	$(".nav4").click(function(){
+		$(".box4 iframe").attr("src","<{:U('Qt/Mr/mr')}>");
+		$(".box2 iframe,.box3 iframe").removeAttr("src")<!--*****-->
+	})
+	$(".xw p a").click(function(){
+		var src = $(this).attr("alt")
+		$(".box4 iframe").attr("src",src);
+		$(".box2 iframe,.box3 iframe").removeAttr("src")<!--*****-->
+		$(".box4").css("left","0vw").prev().css("left","-100vw").prev().css("left","-100vw").prev().css("left","-100vw");
+		$(".nav4").addClass("hover").siblings().removeClass("hover");
+		
+		
+	});
+	var msg = ["美丽的草原，我的家","你瞅啥","该吃饭了","再摸我一下试试","施主请自重","想吃肉串吗"];
+	$(".yang").click(function(){
+		<!--$("#video1").trigger('play');-->
+		$("#video1").trigger('play');
+		var sj = msg[Math.floor(Math.random() * msg.length)] /*必须放到click下才能每次都执行，考虑一下逻辑*/
+		$(this).children(".yang3").css("bottom","8px");
+			setTimeout(function () { 
+				$(".yang3").css("bottom","0px")
+			},300);
+		$(this).children(".text").text(sj).css("opacity","1");
+			setTimeout(function () { 
+				$(".text").empty().css("opacity","0");
+			},2000);
+	})
+	
+	$(".yejian").click(function(){
+		$(".box1").toggleClass("hover2")
+		$(".box,.nav").toggleClass("hover1")
+		$(".yejian").toggleClass("hover")
+		$(".rigui2").toggleClass("hover")
+		
+	})
+})
+</script>
+</script>
+
+</head>
+<body>
+<div class="loading"></div>
+
+<audio id="video1" src="__PUBLIC__/mic/mie.mp3" preload="preload" controls="none" style="display:none;"></audio>
+<div class="nav">
+  <ul>
+    <li class="hover"><img src="__PUBLIC__/img/nav1.png" /><br />
+首页</li>
+    <li class="nav2"><img src="__PUBLIC__/img/nav2.png" /><br />
+牧场</li>
+    <li class="nav3"><img src="__PUBLIC__/img/nav3.png" /><br />
+商城</li>
+    <li class="nav4"><img src="__PUBLIC__/img/nav4.png" /><br />
+牧人</li>
+  </ul>
+</div>
+<div data-role="page" class="boxx">
+<div class="box box1">
+<div class="yejian"><span><img src="__PUBLIC__/img/yue.png" width="100%"/><img src="__PUBLIC__/img/ri.png" width="100%"/></span></div>
+<img src="__PUBLIC__/img/di1.png" width="100%" class="di1"/>
+<img src="__PUBLIC__/img/di2.png" width="100%" class="di2"/>
+<img src="__PUBLIC__/img/di3.png" width="100%" class="di3"/> 
+<img src="__PUBLIC__/img/shan.png" width="130%" class="shan"/>
+<div class="rigui">
+  <div class="rigui2">
+    <div class="ri"></div>
+    <div class="yue"><img src="__PUBLIC__/img/yue.png" width="100%"/></div>
+  </div>
+</div>
+<img src="__PUBLIC__/img/yun1.png" width="100%" class="yun1"/>
+<img src="__PUBLIC__/img/yun2.png" width="100%" class="yun2"/>
+<img src="__PUBLIC__/img/yun3.png" width="100%" class="yun3"/>
+<img src="__PUBLIC__/img/jiankong.png" width="100%" class="jiankong" />
+<img src="__PUBLIC__/img/shu.png" width="100%" class="shu1"/>
+<img src="__PUBLIC__/img/zhalan.png" width="100%" class="zhalan1"/>
+<img src="__PUBLIC__/img/shu.png" width="100%" class="shu2"/>
+<img src="__PUBLIC__/img/zhalan.png" width="100%" class="zhalan2"/>
+<div class="goumai"><a>抢购</a></div>
+<div class="yanglan22"><a href="<{:U('Qt/Yl/yl',array('vid'=>$vid))}>">我的羊圈</a></div>
+<img src="__PUBLIC__/img/yanglan.png" width="100%" class="yanglan"/>
+<img src="__PUBLIC__/img/yanglan2.png" width="100%" class="yanglan2"/>
+<!--栏内羊-->
+<div class="yang11">
+  <div class="yang2"><img src="__PUBLIC__/img/yang.png" width="100%"/>
+  <div class="zu1"></div>
+  <div class="zu2"></div>
+  <div class="zu3"></div>
+  <div class="zu4"></div>
+  </div>
+</div>
+<div class="yang22">
+  <div class="yang2"><img src="__PUBLIC__/img/yang.png" width="100%"/>
+  <div class="zu1"></div>
+  <div class="zu2"></div>
+  <div class="zu3"></div>
+  <div class="zu4"></div>
+  </div>
+</div>
+
+<img src="__PUBLIC__/img/shu.png" width="100%" class="shu3"/>
+<img src="__PUBLIC__/img/shu.png" width="100%" class="shu4"/>
+<img src="__PUBLIC__/img/zhalan.png" width="100%" class="zhalan3"/>
+<!--风车-->
+<div class="fengche">
+<img src="__PUBLIC__/img/fengche1.png" class="fengche1" />
+<img src="__PUBLIC__/img/fengche2.png" class="fengche2" />
+</div>
+<!--自走羊-->
+<div class="yang">
+	<div class="text"></div>
+    <div class="yang3">
+      <div class="yang2">
+        <img src="__PUBLIC__/img/yang.png" width="100%"/>
+        <div class="zu1"></div>
+        <div class="zu2"></div>
+        <div class="zu3"></div>
+        <div class="zu4"></div>
+      </div>
+    </div>
+</div>
+<div class="yang xinyang1">
+	<div class="text xintext"></div>
+    <div class="yang3">
+      <div class="yang2">
+        <img src="__PUBLIC__/img/yang.png" width="100%"/>
+        <div class="zu1"></div>
+        <div class="zu2"></div>
+        <div class="zu3"></div>
+        <div class="zu4"></div>
+      </div>
+    </div>
+</div>
+<div class="yang xinyang2">
+	<div class="text xintext2"></div>
+    <div class="yang3">
+      <div class="yang2">
+        <img src="__PUBLIC__/img/yang.png" width="100%"/>
+        <div class="zu1"></div>
+        <div class="zu2"></div>
+        <div class="zu3"></div>
+        <div class="zu4"></div>
+      </div>
+    </div>
+</div>
+<div class="zi">
+<h1>养殖总数</h1>
+<p><{$count}><span>只</span></p>
+<h1>预计收益</h1>
+<p><{$zz}><span>元</span></p>
+</div>
+<div class="xw">
+<volist name='zxx' id='v'>
+<p><a alt="<{:U('Qt/News/zx_xx',array('id'=>$v['id']))}>"><{$v['name']}></a></p>
+</volist>
+
+</div>
+
+<img src="__PUBLIC__/img/rqq.png"  class="rqq"/>
+</div>
+<div class="box box2"><iframe src="" frameborder="0" class="mr" ></iframe></div>
+<div class="box box3"><iframe src="" frameborder="0" class="mr" ></iframe></div>
+<div class="box box4"><iframe src="" frameborder="0" class="mr"></iframe></div>
+<!--<div class="box box2"><iframe src="<{:U('Qt/Video/mc')}>" frameborder="0" class="mr" ></iframe></div>
+<div class="box box3"><iframe src="<{:U('Qt/Goods/sc')}>" frameborder="0" class="mr" ></iframe></div>
+<div class="box box4"><iframe src="<{:U('Qt/Mr/mr')}>" frameborder="0" class="mr"></iframe></div>-->
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".loading").fadeOut(1000)
+})
+</script>
+</body>
+</html>

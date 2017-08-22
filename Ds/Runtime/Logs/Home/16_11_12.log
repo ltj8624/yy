@@ -1,0 +1,7 @@
+[ 2016-11-12T12:23:45+08:00 ] ::1 /ds1107/index.php/Home/UserInfo/xian
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `oa_user_info` [ RunTime:0.0130s ]
+SQL: UPDATE `oa_user_info` SET `status`='1' WHERE ( id=32 ) [ RunTime:0.1770s ]
+

@@ -1,0 +1,109 @@
+[ 2017-07-02T07:48:34+08:00 ] 106.39.189.218 /admin.php/Home/WorkExperience/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+SQL: SHOW COLUMNS FROM `db_order` [ RunTime:0.0196s ]
+SQL: SHOW COLUMNS FROM `db_product` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0162s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `db_order` WHERE `del` = 0 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `db_order` WHERE `del` = 0 ORDER BY order_id desc LIMIT 0,10   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `db_product`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `db_order` WHERE `del` = 0  [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `db_order` WHERE `del` = 0 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined index: pname C:\WWW\yy\Ds\Runtime\Cache\Home\1d7f47341bd68e82f4206074046579ef.php 第 56 行.
+NOTIC: [8] Undefined index: pname C:\WWW\yy\Ds\Runtime\Cache\Home\1d7f47341bd68e82f4206074046579ef.php 第 56 行.
+NOTIC: [8] Undefined index: pname C:\WWW\yy\Ds\Runtime\Cache\Home\1d7f47341bd68e82f4206074046579ef.php 第 56 行.
+NOTIC: [8] Undefined index: pname C:\WWW\yy\Ds\Runtime\Cache\Home\1d7f47341bd68e82f4206074046579ef.php 第 56 行.
+NOTIC: [8] Undefined index: pname C:\WWW\yy\Ds\Runtime\Cache\Home\1d7f47341bd68e82f4206074046579ef.php 第 56 行.
+NOTIC: [8] Undefined index: pname C:\WWW\yy\Ds\Runtime\Cache\Home\1d7f47341bd68e82f4206074046579ef.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-07-02T07:48:47+08:00 ] 106.39.189.218 /admin.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `db_goods_style` [ RunTime:0.0206s ]
+SQL: SHOW COLUMNS FROM `db_goods` [ RunTime:0.0149s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `db_goods` ORDER BY gid desc LIMIT 0,10   [ RunTime:0.0004s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\WWW\yy\Ds\Home\Controller\GoodsController.class.php 第 22 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-07-02T07:48:58+08:00 ] 106.39.189.218 /admin.php/Home/Vip/sfrz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0241s ]
+NOTIC: [8] Undefined variable: where C:\WWW\yy\Ds\Home\Controller\VipController.class.php 第 97 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `db_vip` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `db_vip` ORDER BY vid desc LIMIT 0,10   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027497s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-07-02T07:49:03+08:00 ] 106.39.189.218 /admin.php/Home/VipRecord/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `db_vip_record` [ RunTime:0.0148s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `db_vip_record` WHERE `type` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `db_vip_record` WHERE `type` = 3 ORDER BY time desc LIMIT 0,10   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `db_vip` [ RunTime:0.0193s ]
+SQL: SELECT * FROM `db_vip`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
